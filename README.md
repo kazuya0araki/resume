@@ -27,7 +27,7 @@
 [![kazuya_araki_jp](https://img.shields.io/badge/X(twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/kazuya_araki_jp)
 [![kazuya0araki](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kazuya0araki)
 [![Kazuya_Araki_Tokyo](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/Kazuya_Araki_Tokyo)
-[![jedi_trickstar](https://img.shields.io/badge/note-41C9B4?style=for-the-badge&logo=note&logoColor=white)](https://note.com/jedi_trickstar)
+[![jedi_trickstar](https://img.shields.io/badge/Note-000?style=for-the-badge&logo=note&logoColor=white)](https://note.com/jedi_trickstar)
 [![@kazuya.araki](https://img.shields.io/badge/Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@kazuya.araki)
 [![kazuya.araki.tokyo](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kazuya.araki.tokyo)
 [![kazuya-araki-65680111a](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazuya-araki-65680111a/)
