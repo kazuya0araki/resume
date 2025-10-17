@@ -1,6 +1,6 @@
 # Resume
 
-Since *July 11th, 2025*
+Since *October 17th, 2025*
 
 [Japanese Resume is here.](./README.md)
 
@@ -56,7 +56,7 @@ Tokyo, Japan
 |---|---|---|---|
 |May 2007 ~ April 2011|Open Systems Development Dept.|System Engineer Member|- SAP product add-in development(Java, ABAP)<br>- Web application development(Java, PHP)|
 |April 2011 ~ October 2012|Open Systems Development Dept.|System Engineer Member ~ Tech Lead|OEM(tier 1 ~ tier 3)|
-|Nobember 2012 ~ August 2013|Open Systems Development Dept.|System Engineer Member -> Tech Lead|- Web system operation and maintenance<br>- System modification projects|
+|November 2012 ~ August 2013|Open Systems Development Dept.|System Engineer Member -> Tech Lead|- Web system operation and maintenance<br>- System modification projects|
 
 #### Legend Applications, Inc.
 
@@ -99,6 +99,7 @@ Tokyo, Japan
 |Term|Organization|Role|Contents|
 |---|---|---|---|
 |October 2024 ~ Currently|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- Sales data maintenance for BizReach<br>- Data infrastructure management for BizReach and HRMOS<br>- Data analysis of BizReach and HRMOS|
+|January 2025 ~ Currently|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- New Data Infrastructure Development for the HRMOS Series|
 
 #### nobody(Sole Proprietorship)
 
@@ -108,8 +109,8 @@ Tokyo, Japan
 |October 2023 ~ December 2024|Data Mart creation, Looker Studio Report creation|
 |May 2024 ~ June 2025|Python System Development|
 |May 2025 ~ June 2025|Project Promotion Support|
-|May 2025 ~ Current|Data Analysis Infrastructure Building Project|
 |June 2025 ~ Current|Personal Development (Python Plugin)|
+|September 2025|Tableau Report Creation (One-Time Assignment)|
 
 ## Qualifications
 
@@ -269,6 +270,7 @@ Tokyo, Japan
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [SQL Server Management Studio(SSMS)](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Cursor](https://cursor.com)
 
 ### Other Tools
 
@@ -286,11 +288,16 @@ Tokyo, Japan
   - [Steep](https://steep.app/)
   - [Airtable](https://www.airtable.com/)
 - ELT
-  - [dbt](https://www.getdbt.com/)
+  - [dbt Core](https://www.getdbt.com/)
   - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
 - Workflow, Orchestration
-    - [Apache Airflow](https://airflow.apache.org/)
-    - [Dagster](https://dagster.io/)
+  - [Jenkins](https://www.jenkins.io/)
+  - [Apache Airflow](https://airflow.apache.org/)
+  - [Dagster](https://dagster.io/)
+- Data Platform
+  - [Airbyte](https://airbyte.com/)
+  - [Databricks](https://www.databricks.com/)
+  - [Snowflake](https://www.snowflake.com/)
 
 ## Mission / Vision / Value
 
@@ -344,22 +351,22 @@ As a matter of course, doing improvement and growth.
 |---|---|
 |September 26th, 2018|Study Session for Data People \~eureka×Leverages×BizReach\~|
 |October 1st, 2018|Tableau Server Administrators Meetup|
-|Nobember 14th, 2018|Data Analyst Meetup Tokyo Vol.8|
+|November 14th, 2018|Data Analyst Meetup Tokyo Vol.8|
 |May 14th, 2019|Tableau Data Day Out Tokyo|
 |August 19th, 2019|[Tableau Server Administrators User Group #1](https://techplay.jp/event/743100)|
 |October 21th, 2019|[Tableau Data Science Study Session #4 - Image Recognition Technology and BI -](https://techplay.jp/event/750555)|
-|Nobember 25th, 2019|[Tableau Server Administrators User Group #2](https://techplay.jp/event/746910)|
+|November 25th, 2019|[Tableau Server Administrators User Group #2](https://techplay.jp/event/746910)|
 |January 25th, 2021|[BI Tool Casual Roundtable \~Redash and Metabase\~](https://bitoollabo.connpass.com/event/199913/)|
 |April 24th, 2023|[Tableau Users Group](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
 |April 15th, 2024|[Tableau User Only】IT Service Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
-|Nobember 23rd, 2024|DATA Saber Conference 2024|
+|November 23rd, 2024|DATA Saber Conference 2024|
 
 ### Media and blog postings
 
 |Date|Title|
 |---|---|
 |Jury 18th, 2018|[[Deleted]Introducing the work of the BI Group](https://reachone.bizreach.co.jp/entry/2018/07/18/145421)|
-|Nobember 29th, 2018|[[Deleted]Our data analyst spoke at "Data Analyst Meetup Tokyo vol.8"](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
+|November 29th, 2018|[[Deleted]Our data analyst spoke at "Data Analyst Meetup Tokyo vol.8"](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
 |February 13th, 2019|[[Deleted]AI and BI data application course for high school students](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
 |Jury 29th, 2019|[Tableau's 3-month boot camp for BI talent - DATA Saber to spread data analysis culture in the company](https://bizzine.jp/article/detail/3543)|
 |March 30th, 2020|[eureka entry: Join to the BI Team](https://www.wantedly.com/companies/eureka/post_articles/225086)|

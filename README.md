@@ -1,6 +1,6 @@
 # 職務経歴書
 
-*2025年07月11日*現在
+*2025年10月17日*現在
 
 [英語版職務経歴書はこちら](./README_EN.md)
 
@@ -99,6 +99,7 @@
 |期間|所属組織|職位|内容|
 |---|---|---|---|
 |2024年10月 ~ 現在|CTO室 データソリューショングループ|Data Engineer and Data Analyst|- ビズリーチ事業の売上データ整備<br>- ビズリーチ、HRMOS全体のデータ分析|
+|2025年01月 ~ 現在|CTO室 データソリューショングループ|Data Engineer and Data Analyst|- HRMOSシリーズの新規データ基盤構築|
 
 #### nobody(個人事業)
 
@@ -106,10 +107,10 @@
 |---|---|
 |2023年02月 ~ 2023年12月|データ分析環境運用保守案件|
 |2023年10月 ~ 2024年12月|Data Mart作成, Looker Studio Report作成案件|
-|2024年05月 ~ 2025年04月|Pythonシステム構築案件|
+|2024年05月 ~ 2025年06月|Pythonシステム構築案件|
 |2025年05月 ~ 2025年06月|プロジェクト推進支援|
-|2025年05月 ~ 現在|データ分析基盤構築案件|
 |2025年06月 ~ 現在|個人開発(Pythonプラグイン)|
+|2025年09月|Tableauレポート作成(スポット業務)|
 
 ## 資格
 
@@ -269,6 +270,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [SQL Server Management Studio(SSMS)](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
+- [Cursor](https://cursor.com/ja/home)
 
 ### ツール類
 
@@ -286,11 +288,16 @@
   - [Steep](https://steep.app/)
   - [Airtable](https://www.airtable.com/)
 - ELT
-  - [dbt](https://www.getdbt.com/)
+  - [dbt Core](https://www.getdbt.com/)
   - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
 - Workflow, Orchestration
-    - [Apache Airflow](https://airflow.apache.org/)
-    - [Dagster](https://dagster.io/)
+  - [Jenkins](https://www.jenkins.io/)
+  - [Apache Airflow](https://airflow.apache.org/)
+  - [Dagster](https://dagster.io/)
+- Data Platform
+  - [Airbyte](https://airbyte.com/)
+  - [Databricks](https://www.databricks.com/)
+  - [Snowflake](https://www.snowflake.com/)
 
 ## Mission / Vision / Value
 
