@@ -369,7 +369,7 @@ QCDSを当たり前に体現する
 |2018年11月29日|[[記事削除済]「Data Analyst Meetup Tokyo vol.8」に弊社データアナリストが登壇しました！](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
 |2019年02月13日|[[記事削除済]高校生に向けてAIとBIのデータ活用講座を開催しました！](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
 |2019年07月29日|[Tableauが3か月でBI人材を育てるブートキャンプ──企業にデータ分析文化を広めるデータセイバー](https://bizzine.jp/article/detail/3543)|
-|2020年03月30日|[入社エントリー: 3月にエウレカに入社し、BIチームにJOINいたしました荒木です。](https://www.wantedly.com/companies/eureka/post_articles/225086)|
+|2020年03月30日|[[記事削除済]入社エントリー: 3月にエウレカに入社し、BIチームにJOINいたしました荒木です。](https://www.wantedly.com/companies/eureka/post_articles/225086)|
 |2021年12月14日|[redashの断捨離を実施したので、方法を共有します](https://medium.com/eureka-engineering/redash%E3%81%AE%E6%96%AD%E6%8D%A8%E9%9B%A2%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7-%E6%96%B9%E6%B3%95%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99-9ffaeaccc910)|
 |2022年07月25日|[第5回 BIツールを用いたデータ可視化業務の要件定義プロセス - BIツールユーザーによる、BIツールユーザーのための、BIツールのトリセツ](https://data.wingarc.com/all-about_bitool_05-43435)|
 |2022年07月25日|[第7回 レポート・ダッシュボードの断捨離の重要性 - BIツールユーザーによる、BIツールユーザーのための、BIツールのトリセツ](https://data.wingarc.com/all-about_bitool_07-43472)|
