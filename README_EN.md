@@ -369,7 +369,7 @@ As a matter of course, doing improvement and growth.
 |November 29th, 2018|[[Deleted]Our data analyst spoke at "Data Analyst Meetup Tokyo vol.8"](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
 |February 13th, 2019|[[Deleted]AI and BI data application course for high school students](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
 |Jury 29th, 2019|[Tableau's 3-month boot camp for BI talent - DATA Saber to spread data analysis culture in the company](https://bizzine.jp/article/detail/3543)|
-|March 30th, 2020|[eureka entry: Join to the BI Team](https://www.wantedly.com/companies/eureka/post_articles/225086)|
+|March 30th, 2020|[[Deleted]eureka entry: Join to the BI Team](https://www.wantedly.com/companies/eureka/post_articles/225086)|
 |December 14th, 2021|[redash Decluttering](https://medium.com/eureka-engineering/redash%E3%81%AE%E6%96%AD%E6%8D%A8%E9%9B%A2%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7-%E6%96%B9%E6%B3%95%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99-9ffaeaccc910)|
 |Jury 25th, 2022|[#5: Requirements Definition Process for Data Visualization Operations Using BI Tools - BI Tool Tricks, by BI Tool Users, for BI Tool Users](https://data.wingarc.com/all-about_bitool_05-43435)|
 |Jury 25th, 2022|[#7: The Importance of Discarding Reports and Dashboards - BI Tool Tricks, by BI Tool Users, for BI Tool Users](https://data.wingarc.com/all-about_bitool_07-43472)|
