@@ -1,6 +1,6 @@
 # 職務経歴書
 
-*2025年10月17日*現在
+*2026年03月17日*現在
 
 [英語版職務経歴書はこちら](./README_EN.md)
 
@@ -46,7 +46,7 @@
 |2017年05月 ~ 2020年03月|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
 |2020年03月 ~ 2024年09月|[株式会社エウレカ](https://eure.jp/)|
 |2023年02月 ~ 現在|nobody(個人事業)|
-|2024年10月 ~ 現在|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
+|2024年10月 ~ 2026年03月|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
 
 ### 詳細
 
@@ -99,7 +99,7 @@
 |期間|所属組織|職位|内容|
 |---|---|---|---|
 |2024年10月 ~ 現在|CTO室 データソリューショングループ|Data Engineer and Data Analyst|- ビズリーチ事業の売上データ整備<br>- ビズリーチ、HRMOS全体のデータ分析|
-|2025年01月 ~ 現在|CTO室 データソリューショングループ|Data Engineer and Data Analyst|- HRMOSシリーズの新規データ基盤構築|
+|2025年01月 ~ 2026年03月|CTO室 データソリューショングループ|Data Engineer and Data Analyst|- HRMOSシリーズの新規データ基盤構築<br>- 全社マスタ環境構築|
 
 #### nobody(個人事業)
 
@@ -109,15 +109,18 @@
 |2023年10月 ~ 2024年12月|Data Mart作成, Looker Studio Report作成案件|
 |2024年05月 ~ 2025年06月|Pythonシステム構築案件|
 |2025年05月 ~ 2025年06月|プロジェクト推進支援|
-|2025年06月 ~ 現在|個人開発(Pythonプラグイン)|
+|2025年06月 ~ 2025年12月|個人開発(Pythonプラグイン)|
 |2025年09月|Tableauレポート作成(スポット業務)|
+|2026年01月 ~ 現在|dbt導入支援|
+|2026年02月 ~ 現在|データコンサルティング|
+|2026年03月 ~ 現在|HR業務、総務、労務|
 
 ## 資格
 
 - 実用数学技能検定3級
 - TOEIC 600
 - 普通自動車運転免許(AT限定)
-- 統計検定3級
+- 統計検定準1級
 - [DATA Saber](https://datasaber.world/) a.k.a. Trickstar
 
 ## スキル
@@ -219,6 +222,7 @@
 - Data Warehouse
   - SAP BW
   - Snowflake
+  - Databricks
 
 ### クラウド
 
@@ -229,33 +233,75 @@
   - SQS
   - Redshift
   - CloudWatch
-- [Google Cloud Platform](https://cloud.google.com)
-  - [IAM & Admin](https://cloud.google.com/iam/)
-  - Security
-    - Zero Trust
-      - [VPC Service Control](https://cloud.google.com/vpc-service-controls/)
-      - [Access Context Manager](https://cloud.google.com/access-context-manager/docs)
+- [Google Cloud](https://cloud.google.com)
+  - AI and Machine Learning
+    - [Vertex AI](https://cloud.google.com/vertex-ai)
+    - [Gemini Enterprise](https://cloud.google.com/gemini-enterprise)
+  - Business Intelligence
+    - [Looker](https://cloud.google.com/looker)
+    - [Looker Studio / Looker Studio Pro](https://cloud.google.com/looker-studio)
   - Compute
     - [Compute Engine](https://cloud.google.com/compute/)
+    - [Cloud Run](https://cloud.google.com/run)
+  - Containers
+    - [Cloud Run](https://cloud.google.com/run)
+    - [Artifact Registry](https://docs.cloud.google.com/artifact-registry)
+  - Data Analytics
+    - [BigQuery](https://cloud.google.com/bigquery/)
+    - [Dataflow](https://cloud.google.com/dataflow/)
+    - [Cloud Composer](https://cloud.google.com/composer/)
+    - [Dataplex Universal Catalog](https://cloud.google.com/dataplex)
+    - [Pub/Sub](https://cloud.google.com/pubsub/)
+    - [BigLake](https://cloud.google.com/biglake)
+  - Databases
+    - [Bigtable](https://cloud.google.com/bigtable)
+    - [Cloud SQL](https://cloud.google.com/sql)
+  - Developer Tools
+    - [Artifact Registry](https://docs.cloud.google.com/artifact-registry)
+    - [Cloud Scheduler](https://docs.cloud.google.com/scheduler)
+    - [Gemini Code Assist](https://codeassist.google/products/business)
+    - [Cloud SDK](https://cloud.google.com/sdk)
+  - Integration Services
+    - [Cloud Scheduler](https://docs.cloud.google.com/scheduler)
+    - [Pub/Sub](https://cloud.google.com/pubsub/)
+    - [Workflows](https://cloud.google.com/workflows)
+    - [Dataproc](https://cloud.google.com/dataproc)
+    - [Cloud Composer](https://cloud.google.com/composer/)
+  - Management Tools
+    - [Cloud IAM](https://cloud.google.com/iam/)
+    - [Observability](https://cloud.google.com/products/observability)
+  - Migration
+    - [Database Migration Service](https://cloud.google.com/database-migration)
+    - [BigQuery Migration Services](https://cloud.google.com/solutions/data-migration)
+    - [Storage Transfer Service](https://cloud.google.com/storage-transfer-service)
+  - Networking
+    - [Virtual Private Cloud (VPC)](https://cloud.google.com/vpc)
+      - [VPC Service Control](https://cloud.google.com/vpc-service-controls/)
+      - [Access Context Manager](https://cloud.google.com/access-context-manager/docs)
+  - Operations
+    - [Cloud Logging](https://cloud.google.com/logging/)
+    - [Cloud Trace](https://cloud.google.com/trace/)
+    - [Cloud Monitoring](https://cloud.google.com/monitoring/)
+  - Productivity and Collaboration
+    - [AppSheet](https://about.appsheet.com/home/)
+    - [Google Workspace](https://workspace.google.com/enterprise)
+    - [Gemini Enterprise](https://cloud.google.com/gemini-enterprise)
+  - Security and Identity
+    - [Cloud IAM](https://cloud.google.com/iam/)
+    - [Cloud Key Management](https://cloud.google.com/security/products/security-key-management)
   - Serverless
-    - [Cloud Functions](https://cloud.google.com/functions/)
+    - [Cloud Run](https://cloud.google.com/run)
     - [App Engine](https://cloud.google.com/appengine/)
+    - [Cloud Functions](https://cloud.google.com/functions/)
+    - [Workflows](https://cloud.google.com/workflows)
   - Storage
     - [Cloud Storage](https://cloud.google.com/storage/)
-  - Networking
-    - [VPC Network](https://cloud.google.com/vpc/)
-  - Operations
-    - [Monitoring](https://cloud.google.com/monitoring/)
-    - [Debuger](https://cloud.google.com/debugger/)
-    - [Logging](https://cloud.google.com/logging/)
-    - [Trace](https://cloud.google.com/trace/)
-  - Analytics
-    - [Composer](https://cloud.google.com/composer/)
-    - [Pub/Sub](https://cloud.google.com/pubsub/)
-    - [Dataflow](https://cloud.google.com/dataflow/)
-    - [BigQuery](https://cloud.google.com/bigquery/)
-    - [Data Catalog](https://cloud.google.com/dataplex)
-    - [Dataprep](https://cloud.google.com/dataprep/)
+    - [Filestore](https://cloud.google.com/filestore)
+- [Azure](https://azure.microsoft.com)
+  - Compute
+    - [Linux Virtual Machines](https://azure.microsoft.com/en-us/products/virtual-machines/linux/)
+  - Databases
+    - [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/products/postgresql/)
 - [さくらのクラウド](https://cloud.sakura.ad.jp/)
 - [TREASURE DATA](https://www.treasuredata.co.jp/)
 
@@ -287,9 +333,11 @@
   - [Count](https://count.co/)
   - [Steep](https://steep.app/)
   - [Airtable](https://www.airtable.com/)
+  - [Sigma](https://www.sigmacomputing.com/)
 - ELT
-  - [dbt Core](https://www.getdbt.com/)
+  - [dbt Core / Cloud / Fusion](https://www.getdbt.com/)
   - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
+  - [dlt](https://dlthub.com/)
 - Workflow, Orchestration
   - [Jenkins](https://www.jenkins.io/)
   - [Apache Airflow](https://airflow.apache.org/)
@@ -404,6 +452,8 @@ QCDSを当たり前に体現する
     - Google BigQuery
     - Amazon Redshift
     - ARM Treasure Data
+    - Snowflake
+    - Databricks
   - Web Analytics Service
     - Google Analytics
     - Firebase Analytics
@@ -446,7 +496,7 @@ IT関連のスキルアップには教育は欠かせません。
 - テーマ
   - ビジネス
   - 会計
-  - 歴史、哲学などリベラルアーツ
+  - 歴史、哲学
 - テーマについて議論し、書評を述べるアウトプットや発散が重要だと考えています。
 - 読書会、輪読会歓迎。
 
@@ -461,12 +511,12 @@ IT関連のスキルアップには教育は欠かせません。
 - 個人情報保護法、GDPRといった各種法律を踏まえた活動、啓蒙ができないか？
 - 場合によってはビジネスチャンスにつながるようなことができないか？
 
-### データ活用人材の育成、データ人材の市場価値向上
+### データ活用人材の育成、データ人材の市場価値を向上させてあげたい
 
 データリテラシーの高い人材が今後のビジネスを劇的に変革する力があると私は考えています。  
 データサイエンティスト、データエンジニア、データスチュワートなど、データに携わる職種の価値を欧米諸国並に向上させたいです。  
 
-### データ人材界隈イベント
+### データ人材系のイベントを主催・登壇・参加・提供したい
 
 知見と人脈を広げるために、データ人材界隈のイベントに参加しています。  
-機会があれば登壇しております。
+機会があれば主催したり登壇したりしています。
