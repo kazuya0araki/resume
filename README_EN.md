@@ -1,6 +1,6 @@
 # Resume
 
-Since *October 17th, 2025*
+Since *March 17th, 2026*
 
 [Japanese Resume is here.](./README.md)
 
@@ -46,7 +46,7 @@ Tokyo, Japan
 |May 2017 ~ March 2020|[BizReach, Inc.](http://www.bizreach.co.jp/)|
 |March 2020 ~ September 2024|[eureka, Inc.](https://eure.jp/)|
 |February 2023 ~ Currently|nobody(Sole Proprietorship)|
-|October 2024 ~ Currently|[BizReach, Inc.](http://www.bizreach.co.jp/)|
+|October 2024 ~ March 2026|[BizReach, Inc.](http://www.bizreach.co.jp/)|
 
 ### Detail
 
@@ -99,7 +99,7 @@ Tokyo, Japan
 |Term|Organization|Role|Contents|
 |---|---|---|---|
 |October 2024 ~ Currently|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- Sales data maintenance for BizReach<br>- Data infrastructure management for BizReach and HRMOS<br>- Data analysis of BizReach and HRMOS|
-|January 2025 ~ Currently|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- New Data Infrastructure Development for the HRMOS Series|
+|January 2025 ~ Currently|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- New Data Infrastructure Development for the HRMOS Series<br>- Master Data Management(MDM) Infrastructure|
 
 #### nobody(Sole Proprietorship)
 
@@ -109,15 +109,18 @@ Tokyo, Japan
 |October 2023 ~ December 2024|Data Mart creation, Looker Studio Report creation|
 |May 2024 ~ June 2025|Python System Development|
 |May 2025 ~ June 2025|Project Promotion Support|
-|June 2025 ~ Current|Personal Development (Python Plugin)|
+|June 2025 ~ December 2025|Personal Development (Python Plugin)|
 |September 2025|Tableau Report Creation (One-Time Assignment)|
+|January 2026 ~ Current|dbt Import Support|
+|February 2026 ~ Current|Data Consulting|
+|March 2026 ~ Current|Human Resources, General Affairs, and Labor Relations|
 
 ## Qualifications
 
 - Global Mathematics Certification Level 3
 - TOEIC 600
 - Class 1 driver’s license in Japan(Limitation to Automatic Transmission)
-- Japan Statistical Society Certificate Test Grade 3
+- Japan Statistical Society Certificate Test Grade PRE-1
 - [DATA Saber](https://datasaber.world/) a.k.a. Trickstar
 
 ## Skills
@@ -219,6 +222,7 @@ Tokyo, Japan
 - Data Warehouse
   - SAP BW
   - Snowflake
+  - Databricks
 
 ### Cloud
 
@@ -229,33 +233,75 @@ Tokyo, Japan
   - SQS
   - Redshift
   - CloudWatch
-- [Google Cloud Platform](https://cloud.google.com)
-  - [IAM & Admin](https://cloud.google.com/iam/)
-  - Security
-    - Zero Trust
-      - [VPC Service Control](https://cloud.google.com/vpc-service-controls/)
-      - [Access Context Manager](https://cloud.google.com/access-context-manager/docs)
+- [Google Cloud](https://cloud.google.com)
+  - AI and Machine Learning
+    - [Vertex AI](https://cloud.google.com/vertex-ai)
+    - [Gemini Enterprise](https://cloud.google.com/gemini-enterprise)
+  - Business Intelligence
+    - [Looker](https://cloud.google.com/looker)
+    - [Looker Studio / Looker Studio Pro](https://cloud.google.com/looker-studio)
   - Compute
     - [Compute Engine](https://cloud.google.com/compute/)
+    - [Cloud Run](https://cloud.google.com/run)
+  - Containers
+    - [Cloud Run](https://cloud.google.com/run)
+    - [Artifact Registry](https://docs.cloud.google.com/artifact-registry)
+  - Data Analytics
+    - [BigQuery](https://cloud.google.com/bigquery/)
+    - [Dataflow](https://cloud.google.com/dataflow/)
+    - [Cloud Composer](https://cloud.google.com/composer/)
+    - [Dataplex Universal Catalog](https://cloud.google.com/dataplex)
+    - [Pub/Sub](https://cloud.google.com/pubsub/)
+    - [BigLake](https://cloud.google.com/biglake)
+  - Databases
+    - [Bigtable](https://cloud.google.com/bigtable)
+    - [Cloud SQL](https://cloud.google.com/sql)
+  - Developer Tools
+    - [Artifact Registry](https://docs.cloud.google.com/artifact-registry)
+    - [Cloud Scheduler](https://docs.cloud.google.com/scheduler)
+    - [Gemini Code Assist](https://codeassist.google/products/business)
+    - [Cloud SDK](https://cloud.google.com/sdk)
+  - Integration Services
+    - [Cloud Scheduler](https://docs.cloud.google.com/scheduler)
+    - [Pub/Sub](https://cloud.google.com/pubsub/)
+    - [Workflows](https://cloud.google.com/workflows)
+    - [Dataproc](https://cloud.google.com/dataproc)
+    - [Cloud Composer](https://cloud.google.com/composer/)
+  - Management Tools
+    - [Cloud IAM](https://cloud.google.com/iam/)
+    - [Observability](https://cloud.google.com/products/observability)
+  - Migration
+    - [Database Migration Service](https://cloud.google.com/database-migration)
+    - [BigQuery Migration Services](https://cloud.google.com/solutions/data-migration)
+    - [Storage Transfer Service](https://cloud.google.com/storage-transfer-service)
+  - Networking
+    - [Virtual Private Cloud (VPC)](https://cloud.google.com/vpc)
+      - [VPC Service Control](https://cloud.google.com/vpc-service-controls/)
+      - [Access Context Manager](https://cloud.google.com/access-context-manager/docs)
+  - Operations
+    - [Cloud Logging](https://cloud.google.com/logging/)
+    - [Cloud Trace](https://cloud.google.com/trace/)
+    - [Cloud Monitoring](https://cloud.google.com/monitoring/)
+  - Productivity and Collaboration
+    - [AppSheet](https://about.appsheet.com/home/)
+    - [Google Workspace](https://workspace.google.com/enterprise)
+    - [Gemini Enterprise](https://cloud.google.com/gemini-enterprise)
+  - Security and Identity
+    - [Cloud IAM](https://cloud.google.com/iam/)
+    - [Cloud Key Management](https://cloud.google.com/security/products/security-key-management)
   - Serverless
-    - [Cloud Functions](https://cloud.google.com/functions/)
+    - [Cloud Run](https://cloud.google.com/run)
     - [App Engine](https://cloud.google.com/appengine/)
+    - [Cloud Functions](https://cloud.google.com/functions/)
+    - [Workflows](https://cloud.google.com/workflows)
   - Storage
     - [Cloud Storage](https://cloud.google.com/storage/)
-  - Networking
-    - [VPC Network](https://cloud.google.com/vpc/)
-  - Operations
-    - [Monitoring](https://cloud.google.com/monitoring/)
-    - [Debuger](https://cloud.google.com/debugger/)
-    - [Logging](https://cloud.google.com/logging/)
-    - [Trace](https://cloud.google.com/trace/)
-  - Analytics
-    - [Composer](https://cloud.google.com/composer/)
-    - [Pub/Sub](https://cloud.google.com/pubsub/)
-    - [Dataflow](https://cloud.google.com/dataflow/)
-    - [BigQuery](https://cloud.google.com/bigquery/)
-    - [Data Catalog](https://cloud.google.com/dataplex)
-    - [Dataprep](https://cloud.google.com/dataprep/)
+    - [Filestore](https://cloud.google.com/filestore)
+- [Azure](https://azure.microsoft.com)
+  - Compute
+    - [Linux Virtual Machines](https://azure.microsoft.com/en-us/products/virtual-machines/linux/)
+  - Databases
+    - [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/products/postgresql/)
 - [さくらのクラウド](https://cloud.sakura.ad.jp/)
 - [TREASURE DATA](https://www.treasuredata.co.jp/)
 
@@ -287,9 +333,11 @@ Tokyo, Japan
   - [Count](https://count.co/)
   - [Steep](https://steep.app/)
   - [Airtable](https://www.airtable.com/)
+  - [Sigma](https://www.sigmacomputing.com/)
 - ELT
-  - [dbt Core](https://www.getdbt.com/)
+  - [dbt Core / Cloud / Fusion](https://www.getdbt.com/)
   - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
+  - [dlt](https://dlthub.com/)
 - Workflow, Orchestration
   - [Jenkins](https://www.jenkins.io/)
   - [Apache Airflow](https://airflow.apache.org/)
@@ -404,6 +452,8 @@ Most recently, I have been engaged in the following activities related to digita
     - Google BigQuery
     - Amazon Redshift
     - ARM Treasure Data
+    - Snowflake
+    - Databricks
   - Web Analytics Service
     - Google Analytics
     - Firebase Analytics
@@ -446,13 +496,13 @@ I use the power of data and technology to innovate inefficient operations and im
 - Theme
   - Business
   - Finance
-  - History, Philosophy, and other liberal arts
+  - History, and Philosophy
 - Discuss the topic and provide a book review
 - Reading Groups
 
 ## What do I want to do?
 
-### I want to utilize safely and securely with Data with high social contribution
+### Safely and securely utilizing data that makes a significant contribution to society
 
 I am thinking of;
 
@@ -461,12 +511,12 @@ I am thinking of;
 - Can I work with and educate people about laws such as the Privacy Act and GDPR?
 - Can I do something that will lead to business opportunities?
 
-### Develop data-enabled human resources and Increase the market value of data personnel
+### Developing talent in data utilization and enhance the market value of data professionals
 
 I believe that data-literate human resources will change the future of business.  
 I want to increase the value of data-enabled jobs such as data scientists, data engineers, and data stewart to the same level as in the United States and Europe.  
 
-### Data Human Resources Community
+### Organizing, speaking at, participating in, and supporting events related to data professionals
 
 I participate in events in the data human resources community to expand my knowledge and network.  
-I am also a speaker when I have the opportunity.
+I am also a organizer or speaker when I have the opportunity.
