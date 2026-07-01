@@ -1,6 +1,6 @@
 # 職務経歴書
 
-*2026年03月17日*現在
+*2026年07月01日*現在
 
 [英語版職務経歴書はこちら](./README_EN.md)
 
@@ -41,12 +41,13 @@
 
 |在籍期間|社名|
 |---|---|
-|2007年05月 ~ 2013年08月|[アロウズ・システム株式会社](http://www.arouse.co.jp/)|
+|2007年05月 ~ 2013年08月|[アロウズ・システム株式会社(株式会社ランステックに吸収合併)](https://lanstech.co.jp/2025/06/02/%e5%90%88%e4%bd%b5%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/)|
 |2013年09月 ~ 2017年04月|株式会社レジェンド・アプリケーションズ(現、[株式会社ラキール](https://www.lakeel.com/ja/index.html))|
 |2017年05月 ~ 2020年03月|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
 |2020年03月 ~ 2024年09月|[株式会社エウレカ](https://eure.jp/)|
 |2023年02月 ~ 現在|nobody(個人事業)|
 |2024年10月 ~ 2026年03月|[株式会社ビズリーチ](http://www.bizreach.co.jp/)|
+|2026年03月 ~ |[株式会社フェズ](https://fez-inc.jp/)|
 
 ### 詳細
 
@@ -111,9 +112,16 @@
 |2025年05月 ~ 2025年06月|プロジェクト推進支援|
 |2025年06月 ~ 2025年12月|個人開発(Pythonプラグイン)|
 |2025年09月|Tableauレポート作成(スポット業務)|
-|2026年01月 ~ 現在|dbt導入支援|
-|2026年02月 ~ 現在|データコンサルティング|
-|2026年03月 ~ 現在|HR業務、総務、労務|
+|2026年01月 ~ 2026年03月|dbt導入支援|
+|2026年02月 ~ 現在|データコンサルティング、AIエージェント開発支援|
+|2026年03月 ~ 2026年04月|HR業務、総務、労務|
+
+#### 株式会社フェズ
+
+|期間|所属組織|職位|内容|
+|---|---|---|---|
+|2026年03月 ~ 2026年06月|データテクノロジー開発部 データ基盤グループ|Data Engineer|Urumoデータ基盤管理運用|
+|2026年07月 ~ 現在|プラットフォーム開発部 データプラットフォームグループ|Data Engineer|- Urumoデータ基盤管理運用<br>- エンジニア採用(Hiring Manager)|
 
 ## 資格
 
@@ -163,9 +171,10 @@
   - Android SDK
   - Java EE
 - JavaScript
-  - Anguler
+  - Angular
   - Node.js
-  - JQuery
+    - Express
+  - jQuery
 - Python
   - pip
   - Pyenv
@@ -182,7 +191,6 @@
     - Chainer
     - etc...
 - Swift
-  - Express
 - Objective-C
   - CocoaPods
 - PHP
@@ -214,7 +222,7 @@
     - Microsoft Access
     - Oracle Database
     - SQLite
-    - Persto
+    - Presto
   - NoSQL
     - MongoDB
     - Apache Cassandra
@@ -316,7 +324,8 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [SQL Server Management Studio(SSMS)](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
-- [Cursor](https://cursor.com/ja/home)
+- [Cursor](https://cursor.com)
+- [Antigravity IDE](https://antigravity.google/product/antigravity-ide)
 
 ### ツール類
 
