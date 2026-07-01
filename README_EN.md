@@ -1,6 +1,6 @@
 # Resume
 
-Since *March 17th, 2026*
+Since *July 1st, 2026*
 
 [Japanese Resume is here.](./README.md)
 
@@ -41,12 +41,13 @@ Tokyo, Japan
 
 |Term|Company|
 |---|---|
-|May 2007 ~ August 2013|[AROUSE SYSTEM Co., Ltd.](http://www.arouse.co.jp/)|
+|May 2007 ~ August 2013|[AROUSE SYSTEM Co., Ltd.(Merged into Lans Tech Co., Ltd)](https://lanstech.co.jp/2025/06/02/%e5%90%88%e4%bd%b5%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/)|
 |September 2013 ~ April 2017|Legend Applications, Inc. formerly known as [LaKeel, Inc](https://www.lakeel.com/ja/index.html)|
 |May 2017 ~ March 2020|[BizReach, Inc.](http://www.bizreach.co.jp/)|
 |March 2020 ~ September 2024|[eureka, Inc.](https://eure.jp/)|
 |February 2023 ~ Currently|nobody(Sole Proprietorship)|
 |October 2024 ~ March 2026|[BizReach, Inc.](http://www.bizreach.co.jp/)|
+|March 2026 ~ |[Fez, Inc.](https://fez-inc.jp/)|
 
 ### Detail
 
@@ -111,9 +112,16 @@ Tokyo, Japan
 |May 2025 ~ June 2025|Project Promotion Support|
 |June 2025 ~ December 2025|Personal Development (Python Plugin)|
 |September 2025|Tableau Report Creation (One-Time Assignment)|
-|January 2026 ~ Current|dbt Import Support|
-|February 2026 ~ Current|Data Consulting|
-|March 2026 ~ Current|Human Resources, General Affairs, and Labor Relations|
+|January 2026 ~ March 2026|dbt Import Support|
+|February 2026 ~ Current|Data Consulting, AI Agent Development Support|
+|March 2026 ~ April 2026|Human Resources, General Affairs, Labor Relations|
+
+#### Fez, Inc.
+
+|Term|Organization|Role|Contents|
+|---|---|---|---|
+|March 2026 ~ June 2026|Data Technology Development Department, Data Infrastructure Group|Data Engineer|Urumo Data Infrastructure Management and Operations|
+|July 2026 ~ Current|Platform Development Department, Data Platform Group|Data Engineer|- Urumo Data Infrastructure Management and Operations<br>- Engineer Recruitment(Hiring Manager)|
 
 ## Qualifications
 
@@ -163,9 +171,10 @@ Tokyo, Japan
   - Android SDK
   - Java EE
 - JavaScript
-  - Anguler
+  - Angular
   - Node.js
-  - JQuery
+    - Express
+  - jQuery
 - Python
   - pip
   - Pyenv
@@ -182,7 +191,6 @@ Tokyo, Japan
     - Chainer
     - etc...
 - Swift
-  - Express
 - Objective-C
   - CocoaPods
 - PHP
@@ -214,7 +222,7 @@ Tokyo, Japan
     - Microsoft Access
     - Oracle Database
     - SQLite
-    - Persto
+    - Presto
   - NoSQL
     - MongoDB
     - Apache Cassandra
@@ -317,6 +325,7 @@ Tokyo, Japan
 - [SQL Server Management Studio(SSMS)](https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms)
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [Cursor](https://cursor.com)
+- [Antigravity IDE](https://antigravity.google/product/antigravity-ide)
 
 ### Other Tools
 
