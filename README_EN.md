@@ -47,7 +47,7 @@ Tokyo, Japan
 |March 2020 ~ September 2024|[eureka, Inc.](https://eure.jp/)|
 |February 2023 ~ Currently|nobody(Sole Proprietorship)|
 |October 2024 ~ March 2026|[BizReach, Inc.](http://www.bizreach.co.jp/)|
-|March 2026 ~ |[Fez, Inc.](https://fez-inc.jp/)|
+|March 2026 ~ Currently|[Fez, Inc.](https://fez-inc.jp/)|
 
 ### Detail
 
@@ -243,38 +243,39 @@ Tokyo, Japan
   - CloudWatch
 - [Google Cloud](https://cloud.google.com)
   - AI and Machine Learning
-    - [Vertex AI](https://cloud.google.com/vertex-ai)
-    - [Gemini Enterprise](https://cloud.google.com/gemini-enterprise)
+    - [Gemini Enterprise Agent Platform](https://cloud.google.com/products/gemini-enterprise-agent-platform)
   - Business Intelligence
     - [Looker](https://cloud.google.com/looker)
-    - [Looker Studio / Looker Studio Pro](https://cloud.google.com/looker-studio)
+    - [Data Studio](https://cloud.google.com/data-studio)
   - Compute
     - [Compute Engine](https://cloud.google.com/compute/)
     - [Cloud Run](https://cloud.google.com/run)
+    - [App Engine](https://cloud.google.com/appengine/)
   - Containers
     - [Cloud Run](https://cloud.google.com/run)
     - [Artifact Registry](https://docs.cloud.google.com/artifact-registry)
   - Data Analytics
     - [BigQuery](https://cloud.google.com/bigquery/)
     - [Dataflow](https://cloud.google.com/dataflow/)
-    - [Cloud Composer](https://cloud.google.com/composer/)
-    - [Dataplex Universal Catalog](https://cloud.google.com/dataplex)
+    - [Managed Service for Apache Airflow](https://cloud.google.com/products/managed-service-for-apache-airflow)
+    - [Knowledge Catalog](https://cloud.google.com/products/knowledge-catalog)
     - [Pub/Sub](https://cloud.google.com/pubsub/)
-    - [BigLake](https://cloud.google.com/biglake)
+    - [Lakehouse for Apache Iceberg](https://cloud.google.com/products/lakehouse)
+    - [Dataflow](https://cloud.google.com/products/dataflow)
   - Databases
     - [Bigtable](https://cloud.google.com/bigtable)
     - [Cloud SQL](https://cloud.google.com/sql)
   - Developer Tools
     - [Artifact Registry](https://docs.cloud.google.com/artifact-registry)
     - [Cloud Scheduler](https://docs.cloud.google.com/scheduler)
-    - [Gemini Code Assist](https://codeassist.google/products/business)
+    - [Gemini Code Assist](https://cloud.google.com/products/gemini/code-assist)
     - [Cloud SDK](https://cloud.google.com/sdk)
   - Integration Services
     - [Cloud Scheduler](https://docs.cloud.google.com/scheduler)
     - [Pub/Sub](https://cloud.google.com/pubsub/)
     - [Workflows](https://cloud.google.com/workflows)
-    - [Dataproc](https://cloud.google.com/dataproc)
-    - [Cloud Composer](https://cloud.google.com/composer/)
+    - [Managed Service for Apache Spark](https://cloud.google.com/products/managed-service-for-apache-spark)
+    - [Managed Service for Apache Airflow](https://cloud.google.com/products/managed-service-for-apache-airflow)
   - Management Tools
     - [Cloud IAM](https://cloud.google.com/iam/)
     - [Observability](https://cloud.google.com/products/observability)
@@ -293,14 +294,13 @@ Tokyo, Japan
   - Productivity and Collaboration
     - [AppSheet](https://about.appsheet.com/home/)
     - [Google Workspace](https://workspace.google.com/enterprise)
-    - [Gemini Enterprise](https://cloud.google.com/gemini-enterprise)
   - Security and Identity
     - [Cloud IAM](https://cloud.google.com/iam/)
     - [Cloud Key Management](https://cloud.google.com/security/products/security-key-management)
   - Serverless
     - [Cloud Run](https://cloud.google.com/run)
     - [App Engine](https://cloud.google.com/appengine/)
-    - [Cloud Functions](https://cloud.google.com/functions/)
+    - [Cloud Run functions](https://cloud.google.com/run/docs/functions/)
     - [Workflows](https://cloud.google.com/workflows)
   - Storage
     - [Cloud Storage](https://cloud.google.com/storage/)
@@ -344,8 +344,8 @@ Tokyo, Japan
   - [Airtable](https://www.airtable.com/)
   - [Sigma](https://www.sigmacomputing.com/)
 - ELT
-  - [dbt Core / Cloud / Fusion](https://www.getdbt.com/)
-  - [Talend Open Studio](https://www.talend.com/products/talend-open-studio/)
+  - [dbt Core / Platform / Fusion](https://www.getdbt.com/)
+  - [Talend by Qlik](https://www.talend.com/products/talend-open-studio/)
   - [dlt](https://dlthub.com/)
 - Workflow, Orchestration
   - [Jenkins](https://www.jenkins.io/)
@@ -355,6 +355,8 @@ Tokyo, Japan
   - [Airbyte](https://airbyte.com/)
   - [Databricks](https://www.databricks.com/)
   - [Snowflake](https://www.snowflake.com/)
+  - [DuckDB](https://duckdb.org/)
+  - [MotherDuck](https://motherduck.com/)
 
 ## Mission / Vision / Value
 
@@ -460,12 +462,12 @@ Most recently, I have been engaged in the following activities related to digita
   - Data Warehouse
     - Google BigQuery
     - Amazon Redshift
-    - ARM Treasure Data
+    - Treasure Data
     - Snowflake
     - Databricks
   - Web Analytics Service
     - Google Analytics
-    - Firebase Analytics
+    - Google Analytics for Firebase
     - Adjust
     - Mixpanel
 - Data Utilization Advisor
