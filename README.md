@@ -406,19 +406,19 @@ QCDSを当たり前に体現する
 
 ### 登壇
 
-|日付|タイトル|
-|---|---|
-|2018年09月26日|Data Peopleの為の勉強会 \~eureka×Leverages×BizReach\~|
-|2018年10月01日|Tableau Server運用管理者ミートアップ|
-|2018年11月14日|Data Analyst Meetup Tokyo Vol.8|
-|2019年05月14日|Tableau Data Day Out Tokyo|
-|2019年08月19日|[第1回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/743100)|
-|2019年10月21日|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻 -](https://techplay.jp/event/750555)|
-|2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)|
-|2021年01月25日|[BIツールカジュアル座談会 \~Redash と Metabase\~](https://bitoollabo.connpass.com/event/199913/)|
-|2023年04月24日|[Tableauユーザー会](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
-|2024年04月15日|[Tableau ユーザー向け】ITサービス Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
-|2024年11月23日|DATA Saber Conference 2024|
+|日付|タイトル|資料等|
+|---|---|---|
+|2018年09月26日|Data Peopleの為の勉強会 \~eureka×Leverages×BizReach\~| |
+|2018年10月01日|Tableau Server運用管理者ミートアップ| |
+|2018年11月14日|[Data Analyst Meetup Tokyo Vol.8](https://data-analyst.connpass.com/event/107244/)|[株式会社ビズリーチの紹介@Data Analyst Meetup Tokyo vol.8](https://speakerdeck.com/kazuya_araki_tokyo/zhu-shi-hui-she-bizuritinoshao-jie-at-data-analyst-meetup-tokyo-vol-dot-8)|
+|2019年05月14日|[Tableau Data Day Out Tokyo](https://www.tableau.com/ja-jp/data-day-out-tokyo2019-resource-page)|[TabReach!~Tableauを組織のスタンダートBIにする⽅法~](https://www.tableau.com/sites/default/files/ddo_tokyo_2019_customersession_bizreach.pdf)|
+|2019年08月19日|[第1回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/743100)| |
+|2019年10月21日|[Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻 -](https://techplay.jp/event/750555)|[Tableau + Pythonとデータのあり方](https://speakerdeck.com/kazuya_araki_tokyo/tableau-plus-pythontodetanoarifang)|
+|2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)| |
+|2021年01月25日|[BIツールカジュアル座談会 \~Redash と Metabase\~](https://bitoollabo.connpass.com/event/199913/)|[YouTube Live](https://www.youtube.com/live/U7DHUI5qZcg?si=l18k9SwB1dzY5F4P)|
+|2023年04月24日|[Tableauユーザー会](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|[Tableau事例紹介 & 課題共有](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
+|2024年04月15日|[Tableau ユーザー向け】ITサービス Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|[Tableau事例紹介 / Tableau Case Study of Eureka](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
+|2024年11月23日|DATA Saber Conference 2024| |
 
 ### メディア、ブログ掲載
 
