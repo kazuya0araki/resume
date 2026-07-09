@@ -406,18 +406,18 @@ As a matter of course, doing improvement and growth.
 
 ### Talking as a speaker
 
-|Date|Title|
-|---|---|
-|September 26th, 2018|Study Session for Data People \~eureka×Leverages×BizReach\~|
-|October 1st, 2018|Tableau Server Administrators Meetup|
-|November 14th, 2018|Data Analyst Meetup Tokyo Vol.8|
-|May 14th, 2019|Tableau Data Day Out Tokyo|
-|August 19th, 2019|[Tableau Server Administrators User Group #1](https://techplay.jp/event/743100)|
-|October 21th, 2019|[Tableau Data Science Study Session #4 - Image Recognition Technology and BI -](https://techplay.jp/event/750555)|
-|November 25th, 2019|[Tableau Server Administrators User Group #2](https://techplay.jp/event/746910)|
-|January 25th, 2021|[BI Tool Casual Roundtable \~Redash and Metabase\~](https://bitoollabo.connpass.com/event/199913/)|
-|April 24th, 2023|[Tableau Users Group](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
-|April 15th, 2024|[Tableau User Only】IT Service Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
+|Date|Title|References|
+|---|---|---|
+|September 26th, 2018|Study Session for Data People \~eureka×Leverages×BizReach\~| |
+|October 1st, 2018|Tableau Server Administrators Meetup| |
+|November 14th, 2018|[Data Analyst Meetup Tokyo Vol.8](https://data-analyst.connpass.com/event/107244/)|[About BizReach, Inc.@Data Analyst Meetup Tokyo vol.8](https://speakerdeck.com/kazuya_araki_tokyo/zhu-shi-hui-she-bizuritinoshao-jie-at-data-analyst-meetup-tokyo-vol-dot-8)|
+|May 14th, 2019|[Tableau Data Day Out Tokyo](https://www.tableau.com/ja-jp/data-day-out-tokyo2019-resource-page)|[TabReach!~How to Make Tableau Your Organization’s Standard BI Tool~](https://www.tableau.com/sites/default/files/ddo_tokyo_2019_customersession_bizreach.pdf)|
+|August 19th, 2019|[Tableau Server Administrators User Group #1](https://techplay.jp/event/743100)| |
+|October 21th, 2019|[Tableau Data Science Study Session #4 - Image Recognition Technology and BI -](https://techplay.jp/event/750555)|[Tableau + Python and How Data Behaves](https://speakerdeck.com/kazuya_araki_tokyo/tableau-plus-pythontodetanoarifang)|
+|November 25th, 2019|[Tableau Server Administrators User Group #2](https://techplay.jp/event/746910)| |
+|January 25th, 2021|[BI Tool Casual Roundtable \~Redash and Metabase\~](https://bitoollabo.connpass.com/event/199913/)|[YouTube Live](https://www.youtube.com/live/U7DHUI5qZcg?si=l18k9SwB1dzY5F4P)|
+|April 24th, 2023|[Tableau Users Group](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|[Tableau Case Studies & Challenge Sharing](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
+|April 15th, 2024|[Tableau User Only】IT Service Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|[Tableau Case Study of Eureka](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
 |November 23rd, 2024|DATA Saber Conference 2024|
 
 ### Media and blog postings
