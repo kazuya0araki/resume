@@ -612,16 +612,141 @@ body {
 }
 .dm-d a { color: #1E6BB8; text-decoration: none; border-bottom: 1px solid #C3D9EE; }
 .dm-d a:hover { border-bottom-color: #1E6BB8; }
+
+/* ============================================================
+   CANDIDATE E — ポートフォリオ（LAPRAS 参照）
+   ============================================================ */
+.dm-e {
+  background: #ECEEED;
+  color: #131A22;
+  font-family: var(--s-jp);
+  font-size: 14px;
+  line-height: 1.8;
+  padding-bottom: 64px;
+}
+.dm-e .e-hero {
+  background: #14202E;
+  color: #EDF1F6;
+  padding: 34px 30px 30px;
+}
+.dm-e .e-heroin {
+  max-width: 880px; margin: 0 auto;
+  display: grid; grid-template-columns: 84px minmax(0, 1fr); gap: 22px; align-items: start;
+}
+@media (max-width: 620px) { .dm-e .e-heroin { grid-template-columns: minmax(0, 1fr); } }
+.dm-e .e-avatar {
+  width: 84px; height: 84px; border-radius: 20px;
+  background: linear-gradient(150deg, #1B9E8A, #14705F);
+  display: grid; place-items: center;
+  font-size: 27px; font-weight: 700; letter-spacing: .06em; color: #FFFFFF;
+}
+.dm-e .e-idblock { display: flex; flex-direction: column; gap: 9px; }
+.dm-e .e-nrow { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 14px; }
+.dm-e .e-name { font-size: 27px; font-weight: 700; margin: 0; letter-spacing: .04em; line-height: 1.25; }
+.dm-e .e-en { font-family: var(--s-mono); font-size: 11.5px; letter-spacing: .16em; color: #7E90A6; }
+.dm-e .e-role { margin: 0; font-size: 13.5px; color: #9FB0C4; }
+.dm-e .e-role b { color: #4FD1B8; font-weight: 600; }
+.dm-e .e-bio { margin: 4px 0 0; font-size: 13px; color: #B9C6D5; max-width: 56ch; }
+.dm-e .e-social { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 4px; }
+.dm-e .e-social a {
+  font-family: var(--s-mono); font-size: 11px; letter-spacing: .04em;
+  color: #B9C6D5; border: 1px solid #2C3D51; border-radius: 20px;
+  padding: 3px 11px; text-decoration: none;
+}
+.dm-e .e-social a:hover { border-color: #1B9E8A; color: #4FD1B8; }
+.dm-e .e-body { max-width: 880px; margin: 0 auto; padding: 22px 30px 0; display: flex; flex-direction: column; gap: 18px; }
+.dm-e .e-card {
+  background: #FFFFFF; border: 1px solid #DCE0DE; border-radius: 10px;
+  padding: 20px 22px; display: flex; flex-direction: column; gap: 15px;
+}
+.dm-e .e-chead { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; }
+.dm-e .e-chead h3 { margin: 0; font-size: 14.5px; font-weight: 700; letter-spacing: .05em; }
+.dm-e .e-chead span {
+  font-family: var(--s-mono); font-size: 10.5px; letter-spacing: .1em;
+  text-transform: uppercase; color: #7A8593;
+}
+.dm-e .e-scores { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 8px; }
+.dm-e .e-score { display: flex; flex-direction: column; align-items: center; gap: 4px; padding: 6px 4px; }
+.dm-e .e-gauge { position: relative; width: 124px; height: 68px; }
+.dm-e .e-gauge svg { display: block; width: 124px; height: 68px; }
+.dm-e .e-gval {
+  position: absolute; left: 0; right: 0; bottom: 0; text-align: center;
+  font-size: 27px; font-weight: 700; line-height: 1; font-variant-numeric: tabular-nums;
+  letter-spacing: -.02em;
+}
+.dm-e .e-gval em { font-style: normal; font-size: 12px; font-weight: 500; color: #7A8593; }
+.dm-e .e-sname { font-size: 13px; font-weight: 600; }
+.dm-e .e-ssub { font-size: 11px; color: #7A8593; text-align: center; line-height: 1.6; }
+.dm-e .e-note { font-size: 11.5px; color: #7A8593; margin: 0; }
+.dm-e .e-tags { display: flex; flex-wrap: wrap; gap: 7px; align-items: center; }
+.dm-e .e-tag {
+  border-radius: 20px; padding: 3px 12px; background: #EFF2F1; color: #37424E;
+  border: 1px solid #DCE0DE; font-size: 12.5px; line-height: 1.7;
+}
+.dm-e .e-tag.l1 { font-size: 15px; font-weight: 700; background: #1B9E8A; color: #FFFFFF; border-color: #1B9E8A; padding: 4px 15px; }
+.dm-e .e-tag.l2 { font-size: 13.5px; font-weight: 600; background: #DFF0EC; color: #10604F; border-color: #BFE2DA; }
+.dm-e .e-hm { display: flex; flex-direction: column; gap: 4px; overflow-x: auto; }
+.dm-e .e-hmrow { display: grid; grid-template-columns: 34px repeat(12, 1fr); gap: 4px; align-items: center; min-width: 420px; }
+.dm-e .e-hmy { font-family: var(--s-mono); font-size: 10.5px; color: #7A8593; font-variant-numeric: tabular-nums; }
+.dm-e .e-cell { aspect-ratio: 1 / 1; border-radius: 3px; background: #E4E7E6; }
+.dm-e .e-cell.v1 { background: #B7DED6; }
+.dm-e .e-cell.v2 { background: #6BC4B4; }
+.dm-e .e-cell.v3 { background: #1B9E8A; }
+.dm-e .e-hmfoot {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 10px;
+  font-size: 11.5px; color: #7A8593;
+}
+.dm-e .e-legend { display: flex; align-items: center; gap: 5px; font-family: var(--s-mono); font-size: 10.5px; }
+.dm-e .e-legend i { width: 11px; height: 11px; border-radius: 2px; display: block; }
+.dm-e .e-counts { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 12.5px; color: #37424E; }
+.dm-e .e-counts b { font-size: 15px; font-variant-numeric: tabular-nums; }
+.dm-e .e-feed { display: flex; flex-direction: column; }
+.dm-e .e-fitem {
+  display: grid; grid-template-columns: 78px 62px minmax(0, 1fr); gap: 12px;
+  padding: 10px 0; border-bottom: 1px solid #EFF2F1; align-items: baseline;
+}
+.dm-e .e-fitem:last-child { border-bottom: 0; }
+@media (max-width: 560px) { .dm-e .e-fitem { grid-template-columns: 78px minmax(0, 1fr); } .dm-e .e-fitem .e-badge { grid-column: 1 / -1; justify-self: start; } }
+.dm-e .e-fdate { font-family: var(--s-mono); font-size: 11.5px; color: #7A8593; font-variant-numeric: tabular-nums; }
+.dm-e .e-badge {
+  font-size: 10.5px; font-family: var(--s-mono); letter-spacing: .06em;
+  border-radius: 3px; padding: 1px 0; text-align: center; display: block;
+  background: #EFF2F1; color: #4C5866; border: 1px solid #DCE0DE;
+}
+.dm-e .e-badge.talk { background: #E7F4F1; color: #10604F; border-color: #BFE2DA; }
+.dm-e .e-badge.book { background: #FBEFE2; color: #8A5216; border-color: #EEDAC2; }
+.dm-e .e-ftitle { font-size: 13px; }
+.dm-e .e-ftitle small { display: block; color: #7A8593; font-size: 11.5px; }
+.dm-e .e-jobs { display: flex; flex-direction: column; gap: 0; }
+.dm-e .e-job {
+  display: grid; grid-template-columns: 122px minmax(0, 1fr); gap: 14px;
+  padding: 13px 0; border-bottom: 1px solid #EFF2F1;
+}
+.dm-e .e-job:last-child { border-bottom: 0; }
+@media (max-width: 560px) { .dm-e .e-job { grid-template-columns: minmax(0, 1fr); gap: 4px; } }
+.dm-e .e-jwhen { font-family: var(--s-mono); font-size: 11.5px; color: #7A8593; font-variant-numeric: tabular-nums; padding-top: 2px; }
+.dm-e .e-jco { font-size: 14.5px; font-weight: 700; margin: 0; }
+.dm-e .e-jpos { font-size: 12.5px; color: #1B9E8A; margin: 1px 0 0; font-weight: 600; }
+.dm-e .e-jdesc { font-size: 12.5px; color: #4C5866; margin: 4px 0 0; }
+.dm-e .e-mini { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 7px; }
+.dm-e .e-mini span { font-family: var(--s-mono); font-size: 10.5px; background: #EFF2F1; border-radius: 3px; padding: 1px 7px; color: #4C5866; }
+.dm-e .e-now {
+  font-family: var(--s-mono); font-size: 10px; letter-spacing: .08em;
+  background: #1B9E8A; color: #FFFFFF; border-radius: 3px; padding: 1px 7px; margin-left: 8px;
+}
+.dm-e a.e-lnk { color: #10604F; text-decoration: none; border-bottom: 1px solid #BFE2DA; }
+.dm-e a.e-lnk:hover { border-bottom-color: #1B9E8A; }
 </style>
 
 <div class="s-wrap">
 
   <header class="s-head">
     <div class="s-eyebrow">Design proposal / GitHub Pages</div>
-    <h1 class="s-title">職務経歴書サイト　デザイン候補 4案</h1>
+    <h1 class="s-title">職務経歴書サイト　デザイン候補 5案</h1>
     <p class="s-lede">
-      いま <code>README.md</code> にある内容をそのまま Web サイトとして公開する前提で、方向性の異なる 4 案を実際の原稿で組みました。
+      いま <code>README.md</code> にある内容をそのまま Web サイトとして公開する前提で、方向性の異なる 5 案を実際の原稿で組みました。
       タブで切り替えて、それぞれのプレビュー枠内をスクロールして比較してください。
+      <b>E 案</b>は LAPRAS のポートフォリオ画面を参照した追加案です。
     </p>
     <div class="s-meta">
       <span><b>Repository</b> kazuya0araki/resume</span>
@@ -632,14 +757,296 @@ body {
   </header>
 
   <div class="s-tabs" role="tablist" aria-label="デザイン候補">
-    <button class="s-tab" role="tab" id="tab-a" aria-controls="panel-a" aria-selected="true"><span class="k">A</span>白紙面</button>
+    <button class="s-tab" role="tab" id="tab-e" aria-controls="panel-e" aria-selected="true"><span class="k">E</span>ポートフォリオ</button>
+    <button class="s-tab" role="tab" id="tab-a" aria-controls="panel-a" aria-selected="false"><span class="k">A</span>白紙面</button>
     <button class="s-tab" role="tab" id="tab-b" aria-controls="panel-b" aria-selected="false"><span class="k">B</span>ターミナル</button>
     <button class="s-tab" role="tab" id="tab-c" aria-controls="panel-c" aria-selected="false"><span class="k">C</span>タイムライン</button>
     <button class="s-tab" role="tab" id="tab-d" aria-controls="panel-d" aria-selected="false"><span class="k">D</span>ダッシュボード</button>
   </div>
 
+  <!-- ================= PANEL E ================= -->
+  <section class="s-panel" role="tabpanel" id="panel-e" aria-labelledby="tab-e">
+    <aside class="s-spec">
+      <h2>E／ポートフォリオ</h2>
+      <div class="sub">LAPRAS 参照</div>
+      <p>LAPRAS のポートフォリオ画面の<b>情報設計</b>を借りた案です。濃紺のプロフィール帯 → スコア → タグ → アウトプット活動（草）→ アウトプット一覧 → 職歴、という「読む前に強みが分かる」並び。配色と書体は LAPRAS のものではなく独自に組んでいます。</p>
+      <dl class="s-dl">
+        <dt>Color</dt>
+        <dd>
+          <div class="s-swatches">
+            <i style="background:#14202E"></i><i style="background:#ECEEED"></i><i style="background:#FFFFFF"></i><i style="background:#131A22"></i><i style="background:#1B9E8A"></i>
+          </div>
+        </dd>
+        <dt>Type</dt><dd>全面ゴシック＋等幅ラベル（数値は桁揃え）</dd>
+        <dt>Layout</dt><dd>ヒーロー帯＋角丸カードの縦積み</dd>
+      </dl>
+      <div class="s-fit">
+        <div><span class="m">◎</span><span>スカウト・カジュアル面談の入口</span></div>
+        <div><span class="m">◎</span><span>アウトプット量そのものが強み</span></div>
+        <div><span class="m">△</span><span>スコアは自己申告になる点の扱い</span></div>
+      </div>
+      <span class="s-cost">実装コスト 大</span>
+    </aside>
+
+    <div>
+      <div class="s-frame">
+        <div class="s-bar">
+          <div class="s-dots"><i></i><i></i><i></i></div>
+          <div class="s-url">kazuya0araki.github.io/resume/</div>
+        </div>
+        <div class="s-scroll">
+          <div class="dm-e">
+
+            <header class="e-hero">
+              <div class="e-heroin">
+                <div class="e-avatar">荒木</div>
+                <div class="e-idblock">
+                  <div class="e-nrow">
+                    <h1 class="e-name">荒木 和也</h1>
+                    <span class="e-en">KAZUYA ARAKI</span>
+                  </div>
+                  <p class="e-role"><b>Data Engineer / Analytics Engineer</b>　東京都　株式会社フェズ</p>
+                  <p class="e-bio">
+                    受託開発、パッケージ製品のプロダクトリーダーを経て、2017 年からデータ領域へ。
+                    データ基盤の設計・構築・運用と、BI を組織に根づかせる仕事を専門にしています。
+                  </p>
+                  <div class="e-social">
+                    <a href="#">GitHub</a><a href="#">X</a><a href="#">Qiita</a><a href="#">note</a><a href="#">Medium</a>
+                    <a href="#">LinkedIn</a><a href="#">Wantedly</a><a href="#">Speaker Deck</a><a href="#">Tableau Public</a>
+                  </div>
+                </div>
+              </div>
+            </header>
+
+            <div class="e-body">
+
+              <section class="e-card">
+                <div class="e-chead">
+                  <h3>スキルスコア</h3>
+                  <span>self-rated / 5.0</span>
+                </div>
+                <div class="e-scores">
+                  <div class="e-score">
+                    <div class="e-gauge">
+                      <svg viewBox="0 0 124 68" aria-hidden="true">
+                        <path d="M14 60 A48 48 0 0 1 110 60" fill="none" stroke="#E4E7E6" stroke-width="9" stroke-linecap="round"></path>
+                        <path d="M14 60 A48 48 0 0 1 110 60" fill="none" stroke="#1B9E8A" stroke-width="9" stroke-linecap="round" stroke-dasharray="151" stroke-dashoffset="18"></path>
+                      </svg>
+                      <span class="e-gval">4.4<em>/5.0</em></span>
+                    </div>
+                    <span class="e-sname">データ基盤</span>
+                    <span class="e-ssub">BigQuery / dbt / ログ基盤<br>設計・構築・運用 9年</span>
+                  </div>
+                  <div class="e-score">
+                    <div class="e-gauge">
+                      <svg viewBox="0 0 124 68" aria-hidden="true">
+                        <path d="M14 60 A48 48 0 0 1 110 60" fill="none" stroke="#E4E7E6" stroke-width="9" stroke-linecap="round"></path>
+                        <path d="M14 60 A48 48 0 0 1 110 60" fill="none" stroke="#1B9E8A" stroke-width="9" stroke-linecap="round" stroke-dasharray="151" stroke-dashoffset="12"></path>
+                      </svg>
+                      <span class="e-gval">4.6<em>/5.0</em></span>
+                    </div>
+                    <span class="e-sname">BI・可視化</span>
+                    <span class="e-ssub">DATA Saber / 著書 1 冊<br>Tableau 導入・推進</span>
+                  </div>
+                  <div class="e-score">
+                    <div class="e-gauge">
+                      <svg viewBox="0 0 124 68" aria-hidden="true">
+                        <path d="M14 60 A48 48 0 0 1 110 60" fill="none" stroke="#E4E7E6" stroke-width="9" stroke-linecap="round"></path>
+                        <path d="M14 60 A48 48 0 0 1 110 60" fill="none" stroke="#1B9E8A" stroke-width="9" stroke-linecap="round" stroke-dasharray="151" stroke-dashoffset="40"></path>
+                      </svg>
+                      <span class="e-gval">3.7<em>/5.0</em></span>
+                    </div>
+                    <span class="e-sname">組織・発信</span>
+                    <span class="e-ssub">登壇 11 回 / 執筆 11 件<br>Hiring Manager</span>
+                  </div>
+                </div>
+                <p class="e-note">※ 3 軸の定義とスコアは自己評価です。根拠になる実績は下の「アウトプット」に紐づけています。</p>
+              </section>
+
+              <section class="e-card">
+                <div class="e-chead">
+                  <h3>タグ</h3>
+                  <span>頻出領域</span>
+                </div>
+                <div class="e-tags">
+                  <span class="e-tag l1">データ基盤</span>
+                  <span class="e-tag l1">Tableau</span>
+                  <span class="e-tag l2">BigQuery</span>
+                  <span class="e-tag l2">dbt</span>
+                  <span class="e-tag l2">データマネジメント</span>
+                  <span class="e-tag">Python</span>
+                  <span class="e-tag">SQL</span>
+                  <span class="e-tag">Looker Studio</span>
+                  <span class="e-tag">Google Cloud</span>
+                  <span class="e-tag">Analytics Engineering</span>
+                  <span class="e-tag">Java</span>
+                  <span class="e-tag">Terraform</span>
+                  <span class="e-tag">データ人材育成</span>
+                  <span class="e-tag">プロダクトマネジメント</span>
+                </div>
+              </section>
+
+              <section class="e-card">
+                <div class="e-chead">
+                  <h3>アウトプット活動</h3>
+                  <span>2018 — 2026</span>
+                </div>
+                <div class="e-hm" id="e-heatmap"></div>
+                <div class="e-hmfoot">
+                  <div class="e-counts">
+                    <span>合計 <b>22</b> 件</span>
+                    <span>登壇 <b>11</b></span>
+                    <span>執筆・メディア <b>10</b></span>
+                    <span>著書 <b>1</b></span>
+                  </div>
+                  <div class="e-legend">
+                    <span>少</span>
+                    <i style="background:#E4E7E6"></i><i style="background:#B7DED6"></i><i style="background:#6BC4B4"></i><i style="background:#1B9E8A"></i>
+                    <span>多</span>
+                  </div>
+                </div>
+              </section>
+
+              <section class="e-card">
+                <div class="e-chead">
+                  <h3>アウトプット</h3>
+                  <span>latest</span>
+                </div>
+                <div class="e-feed">
+                  <div class="e-fitem">
+                    <span class="e-fdate">2024-11-23</span>
+                    <span class="e-badge talk">登壇</span>
+                    <span class="e-ftitle">DATA Saber Conference 2024</span>
+                  </div>
+                  <div class="e-fitem">
+                    <span class="e-fdate">2024-04-15</span>
+                    <span class="e-badge talk">登壇</span>
+                    <span class="e-ftitle"><a class="e-lnk" href="#">Tableau 事例紹介 / Tableau Case Study of Eureka</a><small>【Tableau ユーザー向け】IT サービス Meet up</small></span>
+                  </div>
+                  <div class="e-fitem">
+                    <span class="e-fdate">2023-12-08</span>
+                    <span class="e-badge">寄稿</span>
+                    <span class="e-ftitle"><a class="e-lnk" href="#">BigQuery の白魔術師が dbt という最強クラスの触媒を用いていい感じに世界を救う方法</a><small>eureka Engineering</small></span>
+                  </div>
+                  <div class="e-fitem">
+                    <span class="e-fdate">2023-10-25</span>
+                    <span class="e-badge">掲載</span>
+                    <span class="e-ftitle"><a class="e-lnk" href="#">Best of Tableau Web 2023年10月号</a><small>Salesforce</small></span>
+                  </div>
+                  <div class="e-fitem">
+                    <span class="e-fdate">2022-07-25</span>
+                    <span class="e-badge">寄稿</span>
+                    <span class="e-ftitle"><a class="e-lnk" href="#">レポート・ダッシュボードの断捨離の重要性</a><small>BI ツールのトリセツ 第7回</small></span>
+                  </div>
+                  <div class="e-fitem">
+                    <span class="e-fdate">2022-03-01</span>
+                    <span class="e-badge book">著書</span>
+                    <span class="e-ftitle"><a class="e-lnk" href="#">動き出すデータドリブン組織のつくりかた　Tableau Blueprint に学ぶ実践的アプローチ</a></span>
+                  </div>
+                  <div class="e-fitem">
+                    <span class="e-fdate">2019-05-14</span>
+                    <span class="e-badge talk">登壇</span>
+                    <span class="e-ftitle"><a class="e-lnk" href="#">TabReach! ～Tableau を組織のスタンダート BI にする方法～</a><small>Tableau Data Day Out Tokyo</small></span>
+                  </div>
+                </div>
+              </section>
+
+              <section class="e-card">
+                <div class="e-chead">
+                  <h3>職歴</h3>
+                  <span>2007 — now / 19 years</span>
+                </div>
+                <div class="e-jobs">
+                  <div class="e-job">
+                    <span class="e-jwhen">2026.03 — 現在</span>
+                    <div>
+                      <p class="e-jco">株式会社フェズ<span class="e-now">在籍中</span></p>
+                      <p class="e-jpos">プラットフォーム開発部 データプラットフォームグループ／Data Engineer</p>
+                      <p class="e-jdesc">Urumo データ基盤の管理運用、エンジニア採用（Hiring Manager）。</p>
+                      <div class="e-mini"><span>データ基盤</span><span>採用</span></div>
+                    </div>
+                  </div>
+                  <div class="e-job">
+                    <span class="e-jwhen">2024.10 — 2026.03</span>
+                    <div>
+                      <p class="e-jco">株式会社ビズリーチ</p>
+                      <p class="e-jpos">CTO室 データソリューショングループ／Data Engineer and Data Analyst</p>
+                      <p class="e-jdesc">HRMOS シリーズの新規データ基盤構築、全社マスタ環境構築。</p>
+                      <div class="e-mini"><span>BigQuery</span><span>マスタ設計</span></div>
+                    </div>
+                  </div>
+                  <div class="e-job">
+                    <span class="e-jwhen">2023.02 — 現在</span>
+                    <div>
+                      <p class="e-jco">nobody（個人事業）<span class="e-now">継続中</span></p>
+                      <p class="e-jpos">フリーランス</p>
+                      <p class="e-jdesc">dbt 導入支援、データコンサルティング、AI エージェント開発支援ほか。</p>
+                      <div class="e-mini"><span>副業</span><span>dbt</span></div>
+                    </div>
+                  </div>
+                  <div class="e-job">
+                    <span class="e-jwhen">2020.03 — 2024.09</span>
+                    <div>
+                      <p class="e-jco">株式会社エウレカ</p>
+                      <p class="e-jpos">BI Team / Data Management Team／Data Engineer and Analytics Engineer</p>
+                      <p class="e-jdesc">新データ分析基盤の構築、ログ基盤刷新、Apps Script から dbt への移行、Tableau Server 管理。</p>
+                      <div class="e-mini"><span>dbt</span><span>Tableau</span><span>ログ基盤</span></div>
+                    </div>
+                  </div>
+                  <div class="e-job">
+                    <span class="e-jwhen">2017.05 — 2020.03</span>
+                    <div>
+                      <p class="e-jco">株式会社ビズリーチ</p>
+                      <p class="e-jpos">マーケティングテクノロジー室 ほか／データアナリスト・データエンジニア</p>
+                      <p class="e-jdesc">データ分析基盤の企画・設計・運用、Tableau 推進による組織のデータ活用牽引。</p>
+                      <div class="e-mini"><span>データ基盤</span><span>組織づくり</span></div>
+                    </div>
+                  </div>
+                  <div class="e-job">
+                    <span class="e-jwhen">2013.09 — 2017.04</span>
+                    <div>
+                      <p class="e-jco">株式会社レジェンド・アプリケーションズ</p>
+                      <p class="e-jpos">プロダクト開発本部／プロダクトリーダー・アーキテクト・PM</p>
+                      <p class="e-jdesc">ワークフロー、ビジネスチャット、BI の各パッケージ製品開発をリード。</p>
+                      <div class="e-mini"><span>製品開発</span><span>PdM</span></div>
+                    </div>
+                  </div>
+                  <div class="e-job">
+                    <span class="e-jwhen">2007.05 — 2013.08</span>
+                    <div>
+                      <p class="e-jco">アロウズ・システム株式会社</p>
+                      <p class="e-jpos">オープンシステム開発部／システムエンジニア・開発リーダー</p>
+                      <p class="e-jdesc">SAP 製品アドイン開発、Web アプリケーション受託開発、運用保守。</p>
+                      <div class="e-mini"><span>Java</span><span>受託開発</span></div>
+                    </div>
+                  </div>
+                </div>
+              </section>
+
+              <section class="e-card">
+                <div class="e-chead">
+                  <h3>資格</h3>
+                  <span>5</span>
+                </div>
+                <div class="e-tags">
+                  <span class="e-tag l2">統計検定準1級</span>
+                  <span class="e-tag l2">DATA Saber（Trickstar）</span>
+                  <span class="e-tag">TOEIC 600</span>
+                  <span class="e-tag">実用数学技能検定3級</span>
+                  <span class="e-tag">普通自動車運転免許（AT限定）</span>
+                </div>
+              </section>
+
+            </div>
+          </div>
+        </div>
+      </div>
+      <p class="s-hint">↑ 枠内をスクロールできます</p>
+    </div>
+  </section>
+
   <!-- ================= PANEL A ================= -->
-  <section class="s-panel" role="tabpanel" id="panel-a" aria-labelledby="tab-a">
+  <section class="s-panel" role="tabpanel" id="panel-a" aria-labelledby="tab-a" hidden>
     <aside class="s-spec">
       <h2>A／白紙面</h2>
       <div class="sub">Formal document</div>
@@ -1138,12 +1545,12 @@ SELECT system, level FROM <span class="s">skills</span> ORDER BY level DESC;
                 </div>
                 <div class="d-kpi" style="border-top-color:#2E9E7A">
                   <span class="lab">Talks</span>
-                  <span class="val">12<em>回</em></span>
+                  <span class="val">11<em>回</em></span>
                   <span class="sub">2018 — 2024</span>
                 </div>
                 <div class="d-kpi" style="border-top-color:#8A5FBF">
                   <span class="lab">Publications</span>
-                  <span class="val">12<em>件</em></span>
+                  <span class="val">11<em>件</em></span>
                   <span class="sub">著書 1 冊を含む</span>
                 </div>
                 <div class="d-kpi" style="border-top-color:#C25B72">
@@ -1309,11 +1716,18 @@ SELECT system, level FROM <span class="s">skills</span> ORDER BY level DESC;
       </ul>
     </div>
     <div class="s-note">
+      <h3>E 案で LAPRAS から借りたもの／変えたもの</h3>
+      <p><b>借りた</b>：スコアを先に見せる情報の順番、タグによる得意領域の可視化、アウトプットを日付の草で見せる発想、カード縦積みのレイアウト。</p>
+      <p><b>変えた</b>：配色・書体・角丸・ロゴまわりは独自です。ブランドの模倣は避け、構成だけを参考にしています。</p>
+      <p>スコアは LAPRAS のような外部算出ができないため<b>自己評価</b>になります。軸の定義（例：データ基盤／BI・可視化／組織・発信）と根拠の書き方は要相談です。</p>
+    </div>
+    <div class="s-note">
       <h3>先に決めたいこと</h3>
       <ul>
         <li><b>生年月日・性別</b>を公開ページに載せるか（README には現在記載あり。Web 公開では省略を推奨します）</li>
         <li>顔写真の有無（C 案はイニシャル表示で代替中）</li>
         <li>独自ドメインを当てるか、<code>github.io</code> のままにするか</li>
+        <li>E 案の場合：スコアの 3 軸をどう定義するか、GitHub の草を API で自動取得するか手動更新にするか</li>
       </ul>
     </div>
   </div>
@@ -1331,6 +1745,37 @@ SELECT system, level FROM <span class="s">skills</span> ORDER BY level DESC;
       if (panel) { panel.hidden = !on; }
     });
   }
+  // アウトプット活動ヒートマップ（登壇・執筆・著書の発生月）
+  var hm = document.getElementById('e-heatmap');
+  if (hm) {
+    var data = [
+      [2018, [0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 2, 0]],
+      [2019, [0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0]],
+      [2020, [0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+      [2021, [1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1]],
+      [2022, [0, 0, 1, 0, 0, 0, 2, 0, 0, 0, 0, 0]],
+      [2023, [0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1]],
+      [2024, [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0]],
+      [2025, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]],
+      [2026, [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]]
+    ];
+    data.forEach(function (row) {
+      var tr = document.createElement('div');
+      tr.className = 'e-hmrow';
+      var y = document.createElement('span');
+      y.className = 'e-hmy';
+      y.textContent = row[0];
+      tr.appendChild(y);
+      row[1].forEach(function (n, i) {
+        var cell = document.createElement('span');
+        cell.className = 'e-cell' + (n > 0 ? ' v' + Math.min(n, 3) : '');
+        cell.title = row[0] + '年' + (i + 1) + '月：' + n + '件';
+        tr.appendChild(cell);
+      });
+      hm.appendChild(tr);
+    });
+  }
+
   tabs.forEach(function (t) {
     t.addEventListener('click', function () { select(t); });
     t.addEventListener('keydown', function (e) {
