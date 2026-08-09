@@ -417,7 +417,7 @@ QCDSを当たり前に体現する
 |2019年11月25日|[第2回 Tableau Server 運用管理者ユーザー会](https://techplay.jp/event/746910)| |
 |2021年01月25日|[BIツールカジュアル座談会 \~Redash と Metabase\~](https://bitoollabo.connpass.com/event/199913/)|[YouTube Live](https://www.youtube.com/live/U7DHUI5qZcg?si=l18k9SwB1dzY5F4P)|
 |2023年04月24日|[Tableauユーザー会](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|[Tableau事例紹介 & 課題共有](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
-|2024年04月15日|[Tableau ユーザー向け】ITサービス Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|[Tableau事例紹介 / Tableau Case Study of Eureka](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
+|2024年04月15日|[Tableau ユーザー向け】ITサービス Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|[Tableau事例紹介 / Tableau Case Study of eureka](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
 |2024年11月23日|DATA Saber Conference 2024| |
 
 ### メディア、ブログ掲載

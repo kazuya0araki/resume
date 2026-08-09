@@ -63,7 +63,7 @@ Tokyo, Japan
 
 |Term|Organization|Role|Contents|
 |---|---|---|---|
-|September 2013 ~ September 2014|Lakeel Workflow Development Team, LaKeel Development Group, Product Development Div.|Front End Engineer -> Back End Engineer -> Tech Lead|Product development of workflow package "LaKeel Workflow"|
+|September 2013 ~ September 2014|LaKeel Workflow Development Team, LaKeel Development Group, Product Development Div.|Front End Engineer -> Back End Engineer -> Tech Lead|Product development of workflow package "LaKeel Workflow"|
 |October 2014 ~ January 2015|AMS Development Div.|Test Automation Team Leader|Web Application Construction Projects(Defects handling)|
 |February 2015 ~ July 2016|Company Messenger Development Team, LaKeel Development Group, Product Development Div.|Application Engineer -> Product Leader, Architect|Product development of business chat package "COMPANY Messenger" formerly known as "[LaKeel Messenger](https://messenger.lakeel.com/)"|
 |August 2016 ~ April 2017|LaKeel BI Development Team, LaKeel Development Group, Product Development Div.|Product Manager, Architect, PMO|Product development of Business Intelligence package "[LaKeel BI](https://bi.lakeel.com/)"|
@@ -73,7 +73,7 @@ Tokyo, Japan
 |Term|Organization|Role|Contents|
 |---|---|---|---|
 |May 2017 ~ December 2017|BI Group, Business Strategy Dept.|Data Analyst|- BizReach Services Data Extraction, Processing, and Analysis<br>- Propose growth measures using data<br>- Activities to improve IT literacy for non-engineers(e.g. technical offerings, study groups, knowledge sharing)|
-|January 2018|- BI Group, Business Strategy Dept., Business Strategy Div.<br>- Customer Marketing Innovation(Bizreach), Customer Marketing Dept.(BizReach), Service Development Div.(BizReach), BizReach Business Div.|Data Analyst, Data Engineer|- Concurrently serves on the marketing team<br>- Collaborated with the customer marketing team on developing data infrastructure and proposing improvements to existing operations, aiming to build a data-driven marketing team|
+|January 2018|- BI Group, Business Strategy Dept., Business Strategy Div.<br>- Customer Marketing Innovation(BizReach), Customer Marketing Dept.(BizReach), Service Development Div.(BizReach), BizReach Business Div.|Data Analyst, Data Engineer|- Concurrently serves on the marketing team<br>- Collaborated with the customer marketing team on developing data infrastructure and proposing improvements to existing operations, aiming to build a data-driven marketing team|
 |February 2018 ~ April 2018|- BI Group, Business Strategy Dept., Business Strategy Div.<br>- Marketing Technology Office|Data Engineer|- Concurrently serves on Marketing Technology Office<br>- Drafting and designing data analysis infrastructure for digital marketing purposes|
 |May 2018 ~ July 2018|- Marketing Technology Office<br>- BI Group, Business Strategy Dept., Business Strategy Div.|Data Engineer|- Moved main department to Marketing Technology Office<br>- Requirements definition, planning, design, and operation of data analysis infrastructure|
 |August 2018 ~ January 2019|- Marketing Technology Office, Systems Div.<br>- BI Group, Business Strategy Dept., Business Strategy Div.|Data Engineer, Data Analyst|- Requirements definition, planning, design, and operation of data analysis infrastructure<br>- Tableau Server Administrator<br>- Lead data-driven organization using Tableau|
@@ -417,7 +417,7 @@ As a matter of course, doing improvement and growth.
 |November 25th, 2019|[Tableau Server Administrators User Group #2](https://techplay.jp/event/746910)| |
 |January 25th, 2021|[BI Tool Casual Roundtable \~Redash and Metabase\~](https://bitoollabo.connpass.com/event/199913/)|[YouTube Live](https://www.youtube.com/live/U7DHUI5qZcg?si=l18k9SwB1dzY5F4P)|
 |April 24th, 2023|[Tableau Users Group](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|[Tableau Case Studies & Challenge Sharing](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
-|April 15th, 2024|[Tableau User Only】IT Service Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|[Tableau Case Study of Eureka](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
+|April 15th, 2024|[Tableau User Only】IT Service Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|[Tableau Case Study of eureka](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
 |November 23rd, 2024|DATA Saber Conference 2024| |
 
 ### Media and blog postings
