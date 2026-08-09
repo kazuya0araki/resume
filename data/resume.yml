@@ -140,8 +140,6 @@ career:
     company: {ja: 株式会社ビズリーチ, en: "BizReach, Inc."}
     link: bizreach
     rows:
-      # 【要確認】現行 README は "2024年10月 ~ 現在" ですが、概要表は "2026年03月" 終了、
-      # かつ次の行が 2025年01月 開始のため、2024-12 終了と解釈しました。
       - from: 2024-10
         to: 2024-12
         org: {ja: CTO室 データソリューショングループ, en: "Data Solution Grp, CTO Dept."}

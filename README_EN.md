@@ -99,7 +99,7 @@ Tokyo, Japan
 
 |Term|Organization|Role|Contents|
 |---|---|---|---|
-|October 2024 ~ Currently|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- Sales data maintenance for BizReach<br>- Data analysis of BizReach and HRMOS|
+|October 2024 ~ December 2024|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- Sales data maintenance for BizReach<br>- Data analysis of BizReach and HRMOS|
 |January 2025 ~ March 2026|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- New Data Infrastructure Development for the HRMOS Series<br>- Master Data Management(MDM) Infrastructure|
 
 #### nobody(Sole Proprietorship)

@@ -99,7 +99,7 @@
 
 |期間|所属組織|職位|内容|
 |---|---|---|---|
-|2024年10月 ~ 現在|CTO室 データソリューショングループ|Data Engineer and Data Analyst|- ビズリーチ事業の売上データ整備<br>- ビズリーチ、HRMOS全体のデータ分析|
+|2024年10月 ~ 2024年12月|CTO室 データソリューショングループ|Data Engineer and Data Analyst|- ビズリーチ事業の売上データ整備<br>- ビズリーチ、HRMOS全体のデータ分析|
 |2025年01月 ~ 2026年03月|CTO室 データソリューショングループ|Data Engineer and Data Analyst|- HRMOSシリーズの新規データ基盤構築<br>- 全社マスタ環境構築|
 
 #### nobody(個人事業)
