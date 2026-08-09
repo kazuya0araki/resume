@@ -65,7 +65,7 @@ Tokyo, Japan
 |---|---|---|---|
 |September 2013 ~ September 2014|Lakeel Workflow Development Team, LaKeel Development Group, Product Development Div.|Front End Engineer -> Back End Engineer -> Tech Lead|Product development of workflow package "LaKeel Workflow"|
 |October 2014 ~ January 2015|AMS Development Div.|Test Automation Team Leader|Web Application Construction Projects(Defects handling)|
-|February 2015 ~ Jury 2016|Company Messenger Development Team, LaKeel Development Group, Product Development Div.|Application Engineer -> Product Leader, Architect|Product development of business chat package "COMPANY Messenger" formerly known as "[LaKeel Messenger](https://messenger.lakeel.com/)"|
+|February 2015 ~ July 2016|Company Messenger Development Team, LaKeel Development Group, Product Development Div.|Application Engineer -> Product Leader, Architect|Product development of business chat package "COMPANY Messenger" formerly known as "[LaKeel Messenger](https://messenger.lakeel.com/)"|
 |August 2016 ~ April 2017|LaKeel BI Development Team, LaKeel Development Group, Product Development Div.|Product Manager, Architect, PMO|Product development of Business Intelligence package "[LaKeel BI](https://bi.lakeel.com/)"|
 
 #### BizReach, Inc.
@@ -73,12 +73,12 @@ Tokyo, Japan
 |Term|Organization|Role|Contents|
 |---|---|---|---|
 |May 2017 ~ December 2017|BI Group, Business Strategy Dept.|Data Analyst|- BizReach Services Data Extraction, Processing, and Analysis<br>- Propose growth measures using data<br>- Activities to improve IT literacy for non-engineers(e.g. technical offerings, study groups, knowledge sharing)|
-|January 2018|- BI Group, Business Strategy Dept., Business Strategy Div.<br>- Customer Marketing Innovation(Bizreach), Customer Marketing Dept.(BizReach), Service Development Div.(BizReach), BizReach Business Div.|Data Analyst, Data Engineer|- Concurrently serves on the marketing team<br>- Development of data infrastructure<br>- Proposals for improvement of existing operations|
+|January 2018|- BI Group, Business Strategy Dept., Business Strategy Div.<br>- Customer Marketing Innovation(Bizreach), Customer Marketing Dept.(BizReach), Service Development Div.(BizReach), BizReach Business Div.|Data Analyst, Data Engineer|- Concurrently serves on the marketing team<br>- Collaborated with the customer marketing team on developing data infrastructure and proposing improvements to existing operations, aiming to build a data-driven marketing team|
 |February 2018 ~ April 2018|- BI Group, Business Strategy Dept., Business Strategy Div.<br>- Marketing Technology Office|Data Engineer|- Concurrently serves on Marketing Technology Office<br>- Drafting and designing data analysis infrastructure for digital marketing purposes|
-|May 2018 ~ Jury 2018|- Marketing Technology Office<br>- BI Group, Business Strategy Dept., Business Strategy Div.|Data Engineer|- Moved main department to Marketing Technology Office<br>- Requirements definition, planning, design, and operation of data analysis infrastructure|
+|May 2018 ~ July 2018|- Marketing Technology Office<br>- BI Group, Business Strategy Dept., Business Strategy Div.|Data Engineer|- Moved main department to Marketing Technology Office<br>- Requirements definition, planning, design, and operation of data analysis infrastructure|
 |August 2018 ~ January 2019|- Marketing Technology Office, Systems Div.<br>- BI Group, Business Strategy Dept., Business Strategy Div.|Data Engineer, Data Analyst|- Requirements definition, planning, design, and operation of data analysis infrastructure<br>- Tableau Server Administrator<br>- Lead data-driven organization using Tableau|
 |February 2019 ~ April 2019|- Marketing Technology Office, Recruiting Platform Management Div.<br>- Business Strategy Dept., Business Strategy Div.|Data Engineer, Data Analyst|- Same as above<br>- Data analysis and utilization support(dashboard creation, data maintenance)|
-|May 2019 ~ Jury 2019|Marketing Technology Office, Recruiting Platform Management Div.|Data Engineer, Data Analyst|- Same as above<br>- Tableau promotion(Classroom, Boot Camp)<br>- Data analysis and utilization support(dashboard creation, data maintenance)|
+|May 2019 ~ July 2019|Marketing Technology Office, Recruiting Platform Management Div.|Data Engineer, Data Analyst|- Same as above<br>- Tableau promotion(Classroom, Boot Camp)<br>- Data analysis and utilization support(dashboard creation, data maintenance)|
 |August 2019 ~ January 2020|Marketing Technology Office, HR Tech Company Recruiting Platform Business Unit|Data Engineer, Data Architect|- Management Indicator Monitoring Project in collaboration with the Business Planning Dept.<br>- Data analysis and utilization support(e.g. Reporting optimization, automation of regular documents for customer provision)<br>- Tableau Server Administrator<br>- Data Warehouse(Google BigQuery) Management|
 |February 2020 ~ March 2020|DX Promotion Office|Data Analyst, Data Architect|- CSO Assistance<br>- Consider developing a cross-platform organization and data infrastructure<br>- Tableau Server Administrator<br>- Data Warehouse(Google BigQuery) Management|
 
@@ -87,20 +87,20 @@ Tokyo, Japan
 |Term|Organization|Role|Contents|
 |---|---|---|---|
 |March 2020 ~ June 2020|BI Team|Data Analyst and Data Engineer|- Building a monitoring environment using Tableau<br>- Tableau Server Administrator<br>- BigQuery table design, construction, operation and maintenance|
-|Jury 2020 ~ September 2020|BI Team|Data Analyst and Data Engineer|- Building a monitoring environment using Tableau<br>- Tableau Server Administrator<br>- BigQuery Management<br>- Safety Project|
+|July 2020 ~ September 2020|BI Team|Data Analyst and Data Engineer|- Building a monitoring environment using Tableau<br>- Tableau Server Administrator<br>- BigQuery Management<br>- Safety Project|
 |October 2020 ~ December 2020|BI Team|Data Analyst and Data Engineer|- Building a monitoring environment using Tableau<br>- Tableau Server Administrator<br>- BigQuery Management<br>- Safety Project<br>- Data maintenance and education system plan for Tableau usage penetration|
 |January 2021 ~ December 2021|BI Team|Data Analyst and Data Engineer|- KPI monitoring environment development<br>- Enhancement of health check reports(migration to Tableau, performance improvement, operational improvement)<br>- Safety Project|
 |January 2022 ~ March 2022|BI Team|Data Analyst and Data Engineer|- Building a new data analysis infrastructure<br>- Safety Project|
 |April 2022 ~ January 2023|BI Team|Data Analyst and Data Engineer|- Building a new data analysis infrastructure<br>- Pairs Core Dashboard Project|
-|February 2023 ~ December 2023|Data Management Team|Data Engineer|- Data analysis infrastructure management<br>- Log infrastructure renewal Project|
-|January 2024 ~ Currently|BI Team Data Enabling|Data Engineer and Analytics Engineer|- Improved operational efficiency of data analysis infrastructure<br>- Migration from Apps Script to dbt<br>- dbt operational improvements<br>- BI tool operation redesign|
+|February 2023 ~ December 2023|Data Management Team|Data Engineer|- Data analysis infrastructure management<br>- Log infrastructure renewal Project<br>- Looker Studio operational design|
+|January 2024 ~ September 2024|BI Team Data Enabling|Data Engineer and Analytics Engineer|- Improved operational efficiency of data analysis infrastructure<br>- Migration from Apps Script to dbt<br>- dbt operational improvements<br>- BI tool operation redesign|
 
 #### BizReach, Inc.
 
 |Term|Organization|Role|Contents|
 |---|---|---|---|
-|October 2024 ~ Currently|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- Sales data maintenance for BizReach<br>- Data infrastructure management for BizReach and HRMOS<br>- Data analysis of BizReach and HRMOS|
-|January 2025 ~ Currently|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- New Data Infrastructure Development for the HRMOS Series<br>- Master Data Management(MDM) Infrastructure|
+|October 2024 ~ December 2024|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- Sales data maintenance for BizReach<br>- Data analysis of BizReach and HRMOS|
+|January 2025 ~ March 2026|Data Solution Grp, CTO Dept.|Data Engineer and Data Analyst|- New Data Infrastructure Development for the HRMOS Series<br>- Master Data Management(MDM) Infrastructure|
 
 #### nobody(Sole Proprietorship)
 
@@ -113,7 +113,7 @@ Tokyo, Japan
 |June 2025 ~ December 2025|Personal Development (Python Plugin)|
 |September 2025|Tableau Report Creation (One-Time Assignment)|
 |January 2026 ~ March 2026|dbt Import Support|
-|February 2026 ~ Current|Data Consulting, AI Agent Development Support|
+|February 2026 ~ Currently|Data Consulting, AI Agent Development Support|
 |March 2026 ~ April 2026|Human Resources, General Affairs, Labor Relations|
 
 #### Fez, Inc.
@@ -121,7 +121,7 @@ Tokyo, Japan
 |Term|Organization|Role|Contents|
 |---|---|---|---|
 |March 2026 ~ June 2026|Data Technology Development Department, Data Infrastructure Group|Data Engineer|Urumo Data Infrastructure Management and Operations|
-|July 2026 ~ Current|Platform Development Department, Data Platform Group|Data Engineer|- Urumo Data Infrastructure Management and Operations<br>- Engineer Recruitment(Hiring Manager)|
+|July 2026 ~ Currently|Platform Development Department, Data Platform Group|Data Engineer|- Urumo Data Infrastructure Management and Operations<br>- Engineer Recruitment(Hiring Manager)|
 
 ## Qualifications
 
@@ -418,20 +418,20 @@ As a matter of course, doing improvement and growth.
 |January 25th, 2021|[BI Tool Casual Roundtable \~Redash and Metabase\~](https://bitoollabo.connpass.com/event/199913/)|[YouTube Live](https://www.youtube.com/live/U7DHUI5qZcg?si=l18k9SwB1dzY5F4P)|
 |April 24th, 2023|[Tableau Users Group](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|[Tableau Case Studies & Challenge Sharing](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
 |April 15th, 2024|[Tableau User Only】IT Service Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|[Tableau Case Study of Eureka](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
-|November 23rd, 2024|DATA Saber Conference 2024|
+|November 23rd, 2024|DATA Saber Conference 2024| |
 
 ### Media and blog postings
 
 |Date|Title|
 |---|---|
-|Jury 18th, 2018|[[Deleted]Introducing the work of the BI Group](https://reachone.bizreach.co.jp/entry/2018/07/18/145421)|
+|July 18th, 2018|[[Deleted]Introducing the work of the BI Group](https://reachone.bizreach.co.jp/entry/2018/07/18/145421)|
 |November 29th, 2018|[[Deleted]Our data analyst spoke at "Data Analyst Meetup Tokyo vol.8"](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
 |February 13th, 2019|[[Deleted]AI and BI data application course for high school students](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
-|Jury 29th, 2019|[Tableau's 3-month boot camp for BI talent - DATA Saber to spread data analysis culture in the company](https://bizzine.jp/article/detail/3543)|
+|July 29th, 2019|[Tableau's 3-month boot camp for BI talent - DATA Saber to spread data analysis culture in the company](https://bizzine.jp/article/detail/3543)|
 |March 30th, 2020|[[Deleted]eureka entry: Join to the BI Team](https://www.wantedly.com/companies/eureka/post_articles/225086)|
 |December 14th, 2021|[redash Decluttering](https://medium.com/eureka-engineering/redash%E3%81%AE%E6%96%AD%E6%8D%A8%E9%9B%A2%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7-%E6%96%B9%E6%B3%95%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99-9ffaeaccc910)|
-|Jury 25th, 2022|[#5: Requirements Definition Process for Data Visualization Operations Using BI Tools - BI Tool Tricks, by BI Tool Users, for BI Tool Users](https://data.wingarc.com/all-about_bitool_05-43435)|
-|Jury 25th, 2022|[#7: The Importance of Discarding Reports and Dashboards - BI Tool Tricks, by BI Tool Users, for BI Tool Users](https://data.wingarc.com/all-about_bitool_07-43472)|
+|July 25th, 2022|[#5: Requirements Definition Process for Data Visualization Operations Using BI Tools - BI Tool Tricks, by BI Tool Users, for BI Tool Users](https://data.wingarc.com/all-about_bitool_05-43435)|
+|July 25th, 2022|[#7: The Importance of Discarding Reports and Dashboards - BI Tool Tricks, by BI Tool Users, for BI Tool Users](https://data.wingarc.com/all-about_bitool_07-43472)|
 |October 25th, 2023|[Best of Tableau Web #October, 2023](https://www.salesforce.com/jp/blog/jp-best-of-tableau-web-202310/)|
 |December 8th, 2023|[BigQuery White Magician](https://medium.com/eureka-engineering/bigquery-white-magician-a718e5dc8818)|
 
