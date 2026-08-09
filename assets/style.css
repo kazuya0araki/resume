@@ -1,0 +1,141 @@
+/* ===========================================================================
+   職務経歴書サイト
+   デザイン方向が未決定のため、いまは中立的な土台のみ。
+   確定後はこのファイルを差し替えれば、生成の仕組みはそのまま使えます。
+   =========================================================================== */
+
+:root {
+  --ground: #ffffff;
+  --ink: #1a1a18;
+  --ink-soft: #5f5c55;
+  --line: #e2e0da;
+  --line-strong: #c9c6be;
+  --accent: #1f4a82;
+  --accent-soft: #e8eef6;
+  --chip: #f4f3ef;
+
+  --jp: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "Yu Gothic", "Noto Sans JP", Meiryo, sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground: #14161a;
+    --ink: #e6e8ec;
+    --ink-soft: #9aa1ac;
+    --line: #272c34;
+    --line-strong: #39404a;
+    --accent: #85aee6;
+    --accent-soft: #1b2531;
+    --chip: #1c2027;
+  }
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--ground);
+  color: var(--ink);
+  font-family: var(--jp);
+  font-size: 15px;
+  line-height: 1.9;
+  -webkit-text-size-adjust: 100%;
+}
+
+.sheet {
+  max-width: 820px;
+  margin: 0 auto;
+  padding: 56px 24px 96px;
+}
+
+h1 {
+  font-size: 26px;
+  letter-spacing: .1em;
+  margin: 0 0 6px;
+}
+
+h2 {
+  font-size: 19px;
+  letter-spacing: .06em;
+  margin: 52px 0 14px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--line-strong);
+}
+
+h3 {
+  font-size: 15px;
+  margin: 28px 0 8px;
+}
+
+h4 {
+  font-size: 14px;
+  color: var(--ink-soft);
+  margin: 24px 0 8px;
+}
+
+p { margin: 0 0 12px; }
+
+a { color: var(--accent); text-underline-offset: 2px; }
+a:hover { text-decoration-thickness: 2px; }
+
+.langlink { font-size: 13px; margin-bottom: 32px; }
+
+ul { margin: 0 0 12px; padding-left: 1.3em; }
+li { margin: 2px 0; }
+td > ul { margin: 0; padding-left: 1.15em; }
+
+.table-scroll { overflow-x: auto; margin: 0 0 16px; }
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13.5px;
+  line-height: 1.75;
+}
+
+th, td {
+  text-align: left;
+  vertical-align: top;
+  padding: 9px 12px 9px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+th {
+  white-space: nowrap;
+  font-weight: 500;
+  font-size: 12.5px;
+  letter-spacing: .06em;
+  color: var(--ink-soft);
+  border-bottom: 1px solid var(--line-strong);
+}
+
+td:first-child {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink-soft);
+}
+
+.chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 16px; }
+
+.chip {
+  display: inline-block;
+  padding: 3px 11px;
+  border-radius: 20px;
+  background: var(--chip);
+  border: 1px solid var(--line);
+  color: var(--ink);
+  font-size: 12.5px;
+  text-decoration: none;
+}
+
+.chip:hover { border-color: var(--accent); color: var(--accent); }
+
+@media print {
+  body { background: #fff; color: #000; font-size: 10.5pt; }
+  .sheet { max-width: none; padding: 0; }
+  a { color: #000; text-decoration: none; }
+  h2 { break-after: avoid; }
+  table { break-inside: auto; }
+  tr { break-inside: avoid; }
+}

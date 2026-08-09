@@ -1,0 +1,3 @@
+# 差分レビュー用の一時出力（scripts/build.py --out build）
+/build/
+__pycache__/

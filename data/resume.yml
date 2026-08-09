@@ -1,0 +1,189 @@
+# ============================================================================
+#  職務経歴書 単一ソース
+#
+#  ここだけを編集すれば、README.md / README_EN.md / docs/*.html が生成されます。
+#    python3 scripts/build.py
+#
+#  文字列の書き方は 2 通り:
+#    role: Data Engineer            … スカラー = 全言語共通（訳が同じものはこれ）
+#    org:  {ja: 開発部, en: Dev.}   … マップ   = 言語別
+#
+#  URL は links: に 1 度だけ登録し、本文からは [表示テキスト][キー] で参照します。
+#  日付は ISO(YYYY-MM) で 1 度だけ持ち、表記は言語ごとに自動生成されます。
+#  to: を省略すると「現在 / Currently」になります。
+# ============================================================================
+
+meta:
+  updated: 2026-07-01
+  languages: [ja, en]
+
+# ---------------------------------------------------------------------------
+# 生成物に出てくる固定語彙。表記ゆれはここを直せば全体に反映されます。
+# ---------------------------------------------------------------------------
+labels:
+  ja:
+    doc_title: 職務経歴書
+    as_of: "*%s*現在"
+    other_lang: 英語版職務経歴書はこちら
+    now: 現在
+    range: "%s ~ %s"
+    basic: 基本情報
+    name: 氏名
+    birth: 生年月日
+    sex: 性別
+    residence: 居住地
+    sns: SNS etc.
+    career: 職務経歴
+    overview: 概要
+    detail: 詳細
+    th_term: 在籍期間
+    th_company: 社名
+    th_period: 期間
+    th_org: 所属組織
+    th_role: 職位
+    th_content: 内容
+    qualifications: 資格
+  en:
+    doc_title: Resume
+    as_of: "Since *%s*"
+    other_lang: Japanese Resume is here.
+    # 英語履歴書の慣例は "Present" ですが、既存表記に合わせて Currently にしています。
+    # 変更する場合はこの 1 行だけ直してください。
+    now: Currently
+    range: "%s ~ %s"
+    basic: Basic Information
+    name: Full Name
+    birth: Date of Birth
+    sex: Sex
+    residence: Residence
+    sns: SNS etc.
+    career: Job History
+    overview: Overview
+    detail: Detail
+    th_term: Term
+    th_company: Company
+    th_period: Term
+    th_org: Organization
+    th_role: Role
+    th_content: Contents
+    qualifications: Qualifications
+
+# ---------------------------------------------------------------------------
+# URL 登録簿（現在 README.md / README_EN.md に 133 個が二重に書かれているもの）
+# ---------------------------------------------------------------------------
+links:
+  lanstech: https://lanstech.co.jp/2025/06/02/%e5%90%88%e4%bd%b5%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/
+  lakeel: https://www.lakeel.com/ja/index.html
+  bizreach: http://www.bizreach.co.jp/
+  eureka: https://eure.jp/
+  fez: https://fez-inc.jp/
+  datasaber: https://datasaber.world/
+
+# ---------------------------------------------------------------------------
+basic:
+  name: {ja: 荒木 和也, en: Kazuya Araki}
+  birth: 1982-08-30
+  sex: {ja: 男, en: Male}
+  residence: {ja: 東京都, en: "Tokyo, Japan"}
+
+  social:
+    - {service: "X(twitter)", logo: x,            color: "000000", handle: kazuya_araki_jp,        url: "https://twitter.com/kazuya_araki_jp"}
+    - {service: GitHub,       logo: github,       color: "000000", handle: kazuya0araki,           url: "https://github.com/kazuya0araki"}
+    - {service: Qiita,        logo: qiita,        color: "55C500", handle: Kazuya_Araki_Tokyo,     url: "https://qiita.com/Kazuya_Araki_Tokyo"}
+    - {service: Note,         logo: note,         color: "000000", handle: jedi_trickstar,         url: "https://note.com/jedi_trickstar"}
+    - {service: Medium,       logo: Medium,       color: "000000", handle: "@kazuya.araki",        url: "https://medium.com/@kazuya.araki"}
+    - {service: Facebook,     logo: facebook,     color: "1877F2", handle: kazuya.araki.tokyo,     url: "https://www.facebook.com/kazuya.araki.tokyo"}
+    - {service: LinkedIn,     logo: linkedin,     color: "0077B5", handle: kazuya-araki-65680111a, url: "https://www.linkedin.com/in/kazuya-araki-65680111a/"}
+    - {service: Wantedly,     logo: wantedly,     color: "21BDDB", handle: kazuya0araki,           url: "https://www.wantedly.com/id/kazuya0araki"}
+    - {service: Speaker Deck, logo: Speaker-Deck, color: "009287", handle: kazuya_araki_tokyo,     url: "https://speakerdeck.com/kazuya_araki_tokyo"}
+    - {service: Tableau Public, logo: tableau,    color: "E97627", handle: kazuya.araki,           url: "https://public.tableau.com/app/profile/kazuya.araki/vizzes"}
+
+# ---------------------------------------------------------------------------
+# 職務経歴
+#   概要表の期間は rows から自動導出されます（from/to を明示した場合は突き合わせて検証）。
+#   これにより「概要は 2026年03月まで、詳細は現在」のような食い違いが起きません。
+# ---------------------------------------------------------------------------
+career:
+  - key: arouse
+    company: {ja: アロウズ・システム株式会社, en: "AROUSE SYSTEM Co., Ltd."}
+    link: lanstech
+    note: {ja: 株式会社ランステックに吸収合併, en: "Merged into Lans Tech Co., Ltd"}
+    from: 2007-05
+    to: 2013-08
+
+  - key: legend
+    company: {ja: 株式会社レジェンド・アプリケーションズ, en: "Legend Applications, Inc."}
+    suffix:
+      ja: "(現、[株式会社ラキール][lakeel])"
+      en: " formerly known as [LaKeel, Inc][lakeel]"
+    from: 2013-09
+    to: 2017-04
+
+  - key: bizreach1
+    company: {ja: 株式会社ビズリーチ, en: "BizReach, Inc."}
+    link: bizreach
+    from: 2017-05
+    to: 2020-03
+
+  - key: eureka
+    company: {ja: 株式会社エウレカ, en: "eureka, Inc."}
+    link: eureka
+    from: 2020-03
+    to: 2024-09
+
+  - key: nobody
+    company: {ja: nobody(個人事業), en: nobody(Sole Proprietorship)}
+    from: 2023-02
+    to: null
+
+  - key: bizreach2
+    company: {ja: 株式会社ビズリーチ, en: "BizReach, Inc."}
+    link: bizreach
+    rows:
+      # 【要確認】現行 README は "2024年10月 ~ 現在" ですが、概要表は "2026年03月" 終了、
+      # かつ次の行が 2025年01月 開始のため、2024-12 終了と解釈しました。
+      - from: 2024-10
+        to: 2024-12
+        org: {ja: CTO室 データソリューショングループ, en: "Data Solution Grp, CTO Dept."}
+        role: Data Engineer and Data Analyst
+        items:
+          - {ja: ビズリーチ事業の売上データ整備, en: Sales data maintenance for BizReach}
+          - {ja: "ビズリーチ、HRMOS全体のデータ分析", en: Data analysis of BizReach and HRMOS}
+      - from: 2025-01
+        to: 2026-03
+        org: {ja: CTO室 データソリューショングループ, en: "Data Solution Grp, CTO Dept."}
+        role: Data Engineer and Data Analyst
+        items:
+          - {ja: HRMOSシリーズの新規データ基盤構築, en: New Data Infrastructure Development for the HRMOS Series}
+          - {ja: 全社マスタ環境構築, en: Master Data Management(MDM) Infrastructure}
+
+  - key: fez
+    company: {ja: 株式会社フェズ, en: "Fez, Inc."}
+    link: fez
+    rows:
+      - from: 2026-03
+        to: 2026-06
+        org:
+          ja: データテクノロジー開発部 データ基盤グループ
+          en: Data Technology Development Department, Data Infrastructure Group
+        role: Data Engineer
+        items:
+          - {ja: Urumoデータ基盤管理運用, en: Urumo Data Infrastructure Management and Operations}
+      - from: 2026-07
+        to: null
+        org:
+          ja: プラットフォーム開発部 データプラットフォームグループ
+          en: Platform Development Department, Data Platform Group
+        role: Data Engineer
+        items:
+          - {ja: Urumoデータ基盤管理運用, en: Urumo Data Infrastructure Management and Operations}
+          - {ja: エンジニア採用(Hiring Manager), en: Engineer Recruitment(Hiring Manager)}
+
+# ---------------------------------------------------------------------------
+qualifications:
+  - {ja: 実用数学技能検定3級, en: Global Mathematics Certification Level 3}
+  - TOEIC 600
+  - ja: 普通自動車運転免許(AT限定)
+    en: Class 1 driver’s license in Japan(Limitation to Automatic Transmission)
+  - {ja: 統計検定準1級, en: Japan Statistical Society Certificate Test Grade PRE-1}
+  - "[DATA Saber][datasaber] a.k.a. Trickstar"
