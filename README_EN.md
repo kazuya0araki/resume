@@ -417,7 +417,7 @@ As a matter of course, doing improvement and growth.
 |November 25th, 2019|[Tableau Server Administrators User Group #2](https://techplay.jp/event/746910)| |
 |January 25th, 2021|[BI Tool Casual Roundtable \~Redash and Metabase\~](https://bitoollabo.connpass.com/event/199913/)|[YouTube Live](https://www.youtube.com/live/U7DHUI5qZcg?si=l18k9SwB1dzY5F4P)|
 |April 24th, 2023|[Tableau Users Group](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|[Tableau Case Studies & Challenge Sharing](https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you)|
-|April 15th, 2024|[Tableau User Only】IT Service Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|[Tableau Case Study of eureka](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
+|April 15th, 2024|[Tableau User Only】IT Service Meet up](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|[Tableau Case Study of Eureka](https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka)|
 |November 23rd, 2024|DATA Saber Conference 2024| |
 
 ### Media and blog postings
