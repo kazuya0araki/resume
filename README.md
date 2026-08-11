@@ -408,7 +408,7 @@ QCDSを当たり前に体現する
 
 |日付|タイトル|資料等|
 |---|---|---|
-|2018年09月26日|Data Peopleの為の勉強会 \~eureka×Leverages×BizReach\~| |
+|2018年09月26日|Data Peopleの為の勉強会 \~Eureka×Leverages×BizReach\~| |
 |2018年10月01日|Tableau Server運用管理者ミートアップ| |
 |2018年11月14日|[Data Analyst Meetup Tokyo Vol.8](https://data-analyst.connpass.com/event/107244/)|[株式会社ビズリーチの紹介@Data Analyst Meetup Tokyo vol.8](https://speakerdeck.com/kazuya_araki_tokyo/zhu-shi-hui-she-bizuritinoshao-jie-at-data-analyst-meetup-tokyo-vol-dot-8)|
 |2019年05月14日|[Tableau Data Day Out Tokyo](https://www.tableau.com/ja-jp/data-day-out-tokyo2019-resource-page)|[TabReach! \~Tableauを組織のスタンダートBIにする⽅法\~](https://www.tableau.com/sites/default/files/ddo_tokyo_2019_customersession_bizreach.pdf)|

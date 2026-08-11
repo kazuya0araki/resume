@@ -44,7 +44,7 @@ Tokyo, Japan
 |May 2007 ~ August 2013|[AROUSE SYSTEM Co., Ltd.(Merged into Lans Tech Co., Ltd)](https://lanstech.co.jp/2025/06/02/%e5%90%88%e4%bd%b5%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/)|
 |September 2013 ~ April 2017|Legend Applications, Inc. formerly known as [LaKeel, Inc](https://www.lakeel.com/ja/index.html)|
 |May 2017 ~ March 2020|[BizReach, Inc.](http://www.bizreach.co.jp/)|
-|March 2020 ~ September 2024|[eureka, Inc.](https://eure.jp/)|
+|March 2020 ~ September 2024|[Eureka, Inc.](https://eure.jp/)|
 |February 2023 ~ Currently|nobody(Sole Proprietorship)|
 |October 2024 ~ March 2026|[BizReach, Inc.](http://www.bizreach.co.jp/)|
 |March 2026 ~ Currently|[Fez, Inc.](https://fez-inc.jp/)|
@@ -82,7 +82,7 @@ Tokyo, Japan
 |August 2019 ~ January 2020|Marketing Technology Office, HR Tech Company Recruiting Platform Business Unit|Data Engineer, Data Architect|- Management Indicator Monitoring Project in collaboration with the Business Planning Dept.<br>- Data analysis and utilization support(e.g. Reporting optimization, automation of regular documents for customer provision)<br>- Tableau Server Administrator<br>- Data Warehouse(Google BigQuery) Management|
 |February 2020 ~ March 2020|DX Promotion Office|Data Analyst, Data Architect|- CSO Assistance<br>- Consider developing a cross-platform organization and data infrastructure<br>- Tableau Server Administrator<br>- Data Warehouse(Google BigQuery) Management|
 
-#### eureka, Inc.
+#### Eureka, Inc.
 
 |Term|Organization|Role|Contents|
 |---|---|---|---|
@@ -408,7 +408,7 @@ As a matter of course, doing improvement and growth.
 
 |Date|Title|References|
 |---|---|---|
-|September 26th, 2018|Study Session for Data People \~eureka×Leverages×BizReach\~| |
+|September 26th, 2018|Study Session for Data People \~Eureka×Leverages×BizReach\~| |
 |October 1st, 2018|Tableau Server Administrators Meetup| |
 |November 14th, 2018|[Data Analyst Meetup Tokyo Vol.8](https://data-analyst.connpass.com/event/107244/)|[About BizReach, Inc.@Data Analyst Meetup Tokyo vol.8](https://speakerdeck.com/kazuya_araki_tokyo/zhu-shi-hui-she-bizuritinoshao-jie-at-data-analyst-meetup-tokyo-vol-dot-8)|
 |May 14th, 2019|[Tableau Data Day Out Tokyo](https://www.tableau.com/ja-jp/data-day-out-tokyo2019-resource-page)|[TabReach! \~How to Make Tableau Your Organization’s Standard BI Tool\~](https://www.tableau.com/sites/default/files/ddo_tokyo_2019_customersession_bizreach.pdf)|
@@ -428,7 +428,7 @@ As a matter of course, doing improvement and growth.
 |November 29th, 2018|[[Deleted]Our data analyst spoke at "Data Analyst Meetup Tokyo vol.8"](https://reachone.bizreach.co.jp/entry/2018/11/29/160043)|
 |February 13th, 2019|[[Deleted]AI and BI data application course for high school students](https://reachone.bizreach.co.jp/entry/2019/02/13/113418)|
 |July 29th, 2019|[Tableau's 3-month boot camp for BI talent - DATA Saber to spread data analysis culture in the company](https://bizzine.jp/article/detail/3543)|
-|March 30th, 2020|[[Deleted]eureka entry: Join to the BI Team](https://www.wantedly.com/companies/eureka/post_articles/225086)|
+|March 30th, 2020|[[Deleted]Eureka entry: Join to the BI Team](https://www.wantedly.com/companies/eureka/post_articles/225086)|
 |December 14th, 2021|[redash Decluttering](https://medium.com/eureka-engineering/redash%E3%81%AE%E6%96%AD%E6%8D%A8%E9%9B%A2%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7-%E6%96%B9%E6%B3%95%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99-9ffaeaccc910)|
 |July 25th, 2022|[#5: Requirements Definition Process for Data Visualization Operations Using BI Tools - BI Tool Tricks, by BI Tool Users, for BI Tool Users](https://data.wingarc.com/all-about_bitool_05-43435)|
 |July 25th, 2022|[#7: The Importance of Discarding Reports and Dashboards - BI Tool Tricks, by BI Tool Users, for BI Tool Users](https://data.wingarc.com/all-about_bitool_07-43472)|
