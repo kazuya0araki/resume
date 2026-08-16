@@ -395,7 +395,7 @@ career:
           - ja: dbt導入支援
             en: dbt Import Support
       - from: 2026-02
-        to: None
+        to: null
         items:
           - ja: データコンサルティング、AIエージェント開発支援
             en: Data Consulting, AI Agent Development Support
@@ -419,7 +419,7 @@ career:
           - ja: Urumoデータ基盤管理運用
             en: Urumo Data Infrastructure Management and Operations
       - from: 2026-07
-        to: None
+        to: null
         org:
           ja: プラットフォーム開発部 データプラットフォームグループ
           en: Platform Development Department, Data Platform Group
