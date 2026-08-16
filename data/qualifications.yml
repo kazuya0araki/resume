@@ -1,0 +1,20 @@
+# 資格
+#
+# README.md / README_EN.md から移行。以後はこのファイルが正。
+# 文字列はスカラー = 全言語共通、ja/en = 言語別。URL はインライン。
+
+title:
+  ja: 資格
+  en: Qualifications
+qualifications:
+  - name:
+      ja: 実用数学技能検定3級
+      en: Global Mathematics Certification Level 3
+  - name: TOEIC 600
+  - name:
+      ja: 普通自動車運転免許(AT限定)
+      en: Class 1 driver’s license in Japan(Limitation to Automatic Transmission)
+  - name:
+      ja: 統計検定準1級
+      en: Japan Statistical Society Certificate Test Grade PRE-1
+  - name: "[DATA Saber](https://datasaber.world/) a.k.a. Trickstar"

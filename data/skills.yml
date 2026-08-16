@@ -1,0 +1,424 @@
+# スキル
+#
+# README.md / README_EN.md から移行。以後はこのファイルが正。
+# 文字列はスカラー = 全言語共通、ja/en = 言語別。URL はインライン。
+
+title:
+  ja: スキル
+  en: Skills
+nen:
+  title:
+    ja: HUNTER×HUNTERの念能力6系統で喩えるデータ分析スキル
+    en: "Data analysis skills exemplified by \"NEN\"(HUNTER×HUNTER)"
+  url: https://tjo.hatenablog.com/entry/2018/10/09/190000
+  systems:
+    - name:
+        ja: 強化系
+        en: Enhancer
+      aspect:
+        ja: モデリング
+        en: Modeling
+      level: 1
+    - name:
+        ja: 変化系
+        en: Transmuter
+      aspect:
+        ja: 各種統計分析
+        en: Statistical Analysis
+      level: 1
+    - name:
+        ja: 放出系
+        en: Emitter
+      aspect:
+        ja: プログラミング
+        en: Programming
+      level: 15
+    - name:
+        ja: 具現化系
+        en: Conjurer
+      aspect:
+        ja: ドメイン知識
+        en: Domain Knowledge
+      level: 10
+    - name:
+        ja: 操作系
+        en: Manipulator
+      aspect:
+        ja: データ基盤
+        en: Data Infrastructure
+      level: 15
+    - name:
+        ja: 特質系
+        en: Specialist
+      aspect:
+        ja: 社会実装
+        en: Social Implementation
+      level: 1
+  image: ./image/nen.png
+  viz_url: https://public.tableau.com/app/profile/kazuya.araki/viz/HUNTERHUNTER6/HUNTERHUNTER6?:embed=y&:display_count=yes
+portfolio:
+  title:
+    ja: ポートフォリオ
+    en: Portfolio
+  items:
+    - name: Tableau Public
+      url: https://public.tableau.com/app/profile/kazuya.araki#!/
+sections:
+  - key: os
+    title: OS
+    groups:
+      - name: Microsoft Windows
+        items:
+          - name: Windows 95 and later
+          - name: Windows Server 2003 and later
+      - name: Mac OS
+        items:
+          - name: Mac OS 9
+          - name: Mac OS X
+          - name: macOS Sierra and later
+      - name: Linux
+        items:
+          - name: CentOS
+          - name: RedHat Enterprise Linux(RHEL)
+          - name: Ubuntu
+          - name: Amazon Linux 2
+  - key: languages
+    title:
+      ja: プログラミング言語
+      en: Languages
+    items:
+      - name: Java
+      - name: JavaScript
+      - name: Python
+      - name: Swift
+      - name: Objective-C
+      - name: PHP
+      - name: C#
+      - name: VB.Net
+      - name: C
+      - name: HTML
+      - name: CSS
+      - name: R
+      - name: Rust
+      - name: SQL
+      - name: HCL
+        note: Terraform
+    related:
+      title:
+        ja: 関連パッケージ、ツール
+        en: Related Packages and Tools
+      groups:
+        - language: Java
+          items:
+            - name: Spring Framework
+            - name: Oracle JDK
+            - name: Android SDK
+            - name: Java EE
+        - language: JavaScript
+          items:
+            - name: Angular
+            - name: Node.js
+              items:
+                - name: Express
+            - name: jQuery
+        - language: Python
+          items:
+            - name: pip
+            - name: uv
+            - name: Pyenv
+            - name: Anaconda
+            - name: Django
+            - name: numpy
+            - name: matplotlib
+            - name: TensorFlow
+            - name: scikit-learn
+            - name: Chainer
+        - language: Objective-C
+          items:
+            - name: CocoaPods
+  - key: middleware
+    title:
+      ja: ミドルウェア
+      en: Middleware
+    groups:
+      - name: Web Server
+        items:
+          - name: Apache HTTP Server
+          - name: Nginx
+      - name: Application Server
+        items:
+          - name: Tomcat
+          - name: JBoss
+          - name: IIS
+          - name: WebSphere Application Server
+      - name: Database
+        items:
+          - name: RDBMS
+            items:
+              - name: MySQL
+              - name: MariaDB
+              - name: PostgreSQL
+              - name: Microsoft SQL Server
+              - name: Microsoft Access
+              - name: Oracle Database
+              - name: SQLite
+              - name: Presto
+          - name: NoSQL
+            items:
+              - name: MongoDB
+              - name: Apache Cassandra
+              - name: Neo4j
+      - name: Data Warehouse
+        items:
+          - name: SAP BW
+          - name: Snowflake
+          - name: Databricks
+  - key: cloud
+    title:
+      ja: クラウド
+      en: Cloud
+    groups:
+      - name: AWS
+        url: https://aws.amazon.com/jp/
+        items:
+          - name: EC2
+          - name: EBS
+          - name: S3
+          - name: SQS
+          - name: Redshift
+          - name: CloudWatch
+      - name: Google Cloud
+        url: https://cloud.google.com
+        items:
+          - name: AI and Machine Learning
+            items:
+              - name: Gemini Enterprise Agent Platform
+                url: https://cloud.google.com/products/gemini-enterprise-agent-platform
+          - name: Business Intelligence
+            items:
+              - name: Looker
+                url: https://cloud.google.com/looker
+              - name: Data Studio
+                url: https://cloud.google.com/data-studio
+          - name: Compute
+            items:
+              - name: Compute Engine
+                url: https://cloud.google.com/compute/
+              - name: Cloud Run
+                url: https://cloud.google.com/run
+              - name: App Engine
+                url: https://cloud.google.com/appengine/
+          - name: Containers
+            items:
+              - name: Cloud Run
+                url: https://cloud.google.com/run
+              - name: Artifact Registry
+                url: https://docs.cloud.google.com/artifact-registry
+          - name: Data Analytics
+            items:
+              - name: BigQuery
+                url: https://cloud.google.com/bigquery/
+              - name: Dataflow
+                url: https://cloud.google.com/dataflow/
+              - name: Managed Service for Apache Airflow
+                url: https://cloud.google.com/products/managed-service-for-apache-airflow
+              - name: Knowledge Catalog
+                url: https://cloud.google.com/products/knowledge-catalog
+              - name: Pub/Sub
+                url: https://cloud.google.com/pubsub/
+              - name: Lakehouse for Apache Iceberg
+                url: https://cloud.google.com/products/lakehouse
+              - name: Dataflow
+                url: https://cloud.google.com/products/dataflow
+          - name: Databases
+            items:
+              - name: Bigtable
+                url: https://cloud.google.com/bigtable
+              - name: Cloud SQL
+                url: https://cloud.google.com/sql
+          - name: Developer Tools
+            items:
+              - name: Artifact Registry
+                url: https://docs.cloud.google.com/artifact-registry
+              - name: Cloud Scheduler
+                url: https://docs.cloud.google.com/scheduler
+              - name: Gemini Code Assist
+                url: https://cloud.google.com/products/gemini/code-assist
+              - name: Cloud SDK
+                url: https://cloud.google.com/sdk
+          - name: Integration Services
+            items:
+              - name: Cloud Scheduler
+                url: https://docs.cloud.google.com/scheduler
+              - name: Pub/Sub
+                url: https://cloud.google.com/pubsub/
+              - name: Workflows
+                url: https://cloud.google.com/workflows
+              - name: Managed Service for Apache Spark
+                url: https://cloud.google.com/products/managed-service-for-apache-spark
+              - name: Managed Service for Apache Airflow
+                url: https://cloud.google.com/products/managed-service-for-apache-airflow
+          - name: Management Tools
+            items:
+              - name: Cloud IAM
+                url: https://cloud.google.com/iam/
+              - name: Observability
+                url: https://cloud.google.com/products/observability
+          - name: Migration
+            items:
+              - name: Database Migration Service
+                url: https://cloud.google.com/database-migration
+              - name: BigQuery Migration Services
+                url: https://cloud.google.com/solutions/data-migration
+              - name: Storage Transfer Service
+                url: https://cloud.google.com/storage-transfer-service
+          - name: Networking
+            items:
+              - name: Virtual Private Cloud (VPC)
+                url: https://cloud.google.com/vpc
+                items:
+                  - name: VPC Service Control
+                    url: https://cloud.google.com/vpc-service-controls/
+                  - name: Access Context Manager
+                    url: https://cloud.google.com/access-context-manager/docs
+          - name: Operations
+            items:
+              - name: Cloud Logging
+                url: https://cloud.google.com/logging/
+              - name: Cloud Trace
+                url: https://cloud.google.com/trace/
+              - name: Cloud Monitoring
+                url: https://cloud.google.com/monitoring/
+          - name: Productivity and Collaboration
+            items:
+              - name: AppSheet
+                url: https://about.appsheet.com/home/
+              - name: Google Workspace
+                url: https://workspace.google.com/enterprise
+          - name: Security and Identity
+            items:
+              - name: Cloud IAM
+                url: https://cloud.google.com/iam/
+              - name: Cloud Key Management
+                url: https://cloud.google.com/security/products/security-key-management
+          - name: Serverless
+            items:
+              - name: Cloud Run
+                url: https://cloud.google.com/run
+              - name: App Engine
+                url: https://cloud.google.com/appengine/
+              - name: Cloud Run functions
+                url: https://cloud.google.com/run/docs/functions/
+              - name: Workflows
+                url: https://cloud.google.com/workflows
+          - name: Storage
+            items:
+              - name: Cloud Storage
+                url: https://cloud.google.com/storage/
+              - name: Filestore
+                url: https://cloud.google.com/filestore
+      - name: Azure
+        url: https://azure.microsoft.com
+        items:
+          - name: Compute
+            items:
+              - name: Linux Virtual Machines
+                url: https://azure.microsoft.com/en-us/products/virtual-machines/linux/
+          - name: Databases
+            items:
+              - name: Azure Database for PostgreSQL
+                url: https://azure.microsoft.com/en-us/products/postgresql/
+      - name: さくらのクラウド
+        url: https://cloud.sakura.ad.jp/
+      - name: TREASURE DATA
+        url: https://www.treasuredata.co.jp/
+  - key: ides
+    title: IDEs
+    groups:
+      - name: Eclipse
+        url: https://www.eclipse.org/
+      - name: IntelliJ IDEA
+        url: https://www.jetbrains.com/idea/
+      - name: Light Table
+        url: http://lighttable.com/
+      - name: Xcode
+        url: https://developer.apple.com/xcode/
+      - name: Android Studio
+        url: https://developer.android.com/studio
+      - name: Visual Studio
+        url: https://visualstudio.microsoft.com/
+      - name: Visual Studio Code
+        url: https://code.visualstudio.com/
+      - name: SQL Server Management Studio(SSMS)
+        url: https://docs.microsoft.com/ja-jp/sql/ssms/download-sql-server-management-studio-ssms
+      - name: PyCharm
+        url: https://www.jetbrains.com/pycharm/
+      - name: Cursor
+        url: https://cursor.com
+      - name: Antigravity IDE
+        url: https://antigravity.google/product/antigravity-ide
+  - key: tools
+    title:
+      ja: ツール類
+      en: Other Tools
+    groups:
+      - name: BI
+        items:
+          - name: Tableau
+            url: https://www.tableau.com/
+          - name: Power BI
+            url: https://powerbi.microsoft.com/en-us/
+          - name: Looker
+            url: https://cloud.google.com/looker
+          - name: Looker Studio / Looker Studio Pro
+            url: https://cloud.google.com/looker-studio
+          - name: redash
+            url: https://redash.io/
+          - name: Apache Superset
+            url: https://superset.apache.org/
+          - name: Preset
+            url: https://preset.io/
+          - name: metabase
+            url: https://www.metabase.com/
+          - name: Lightdash
+            url: https://www.lightdash.com/
+          - name: Count
+            url: https://count.co/
+          - name: Steep
+            url: https://steep.app/
+          - name: Airtable
+            url: https://www.airtable.com/
+          - name: Sigma
+            url: https://www.sigmacomputing.com/
+      - name: ELT
+        items:
+          - name: dbt Core / Platform / Fusion
+            url: https://www.getdbt.com/
+          - name: Talend by Qlik
+            url: https://www.talend.com/products/talend-open-studio/
+          - name: dlt
+            url: https://dlthub.com/
+      - name: Workflow, Orchestration
+        items:
+          - name: Jenkins
+            url: https://www.jenkins.io/
+          - name: Apache Airflow
+            url: https://airflow.apache.org/
+          - name: Dagster
+            url: https://dagster.io/
+      - name: Data Platform
+        items:
+          - name: Airbyte
+            url: https://airbyte.com/
+          - name: Databricks
+            url: https://www.databricks.com/
+          - name: Snowflake
+            url: https://www.snowflake.com/
+          - name: DuckDB
+            url: https://duckdb.org/
+          - name: MotherDuck
+            url: https://motherduck.com/
+      - name: IaC
+        items:
+          - name: Terraform
+            url: https://www.terraform.io/

@@ -1,0 +1,134 @@
+# 興味があるもの
+#
+# README.md / README_EN.md から移行。以後はこのファイルが正。
+# 文字列はスカラー = 全言語共通、ja/en = 言語別。URL はインライン。
+
+title:
+  ja: 興味があるもの
+  en: "What I'm interested in"
+cross:
+  title:
+    ja: データ × ○○
+    en: Data × ○○
+  topics:
+    - title:
+        ja: データ × デザイン = ビジュアルアナリティクス
+        en: Data × Design = Visual Analytics
+      images:
+        - ./image/Art_and_Science_of_Visual_Analytics_Episode_0_1.png
+        - ./image/Art_and_Science_of_Visual_Analytics_Episode_0_2.png
+        - ./image/Forms_and_Positions.png
+    - title:
+        ja: データ × マーケティング = デジタルマーケティング
+        en: Data × Marketing = Digital Marketing
+      lead:
+        - ja: データサイエンスは、マーケティングと親和性の高い分野です。
+          en: Data science is a high affinity field with marketing.
+        - ja: そのため、マーケティング施策に転じることのできるテーマとして着目しています。
+          en: Therefore, I am focusing on this topic as a theme that can be turned into marketing actions based on the knowledge I have gained.
+        - ja: 直近はデジタルマーケティングにつながる以下の活動をしています。
+          en: Most recently, I have been engaged in the following activities related to digital marketing;
+      groups:
+        - name:
+            ja: データ分析基盤、CRM環境の設計、構築、運用
+            en: Design, construction, and operation of data analysis infrastructure and CRM
+          items:
+            - name: Data Warehouse
+              items:
+                - name: Google BigQuery
+                - name: Amazon Redshift
+                - name: Treasure Data
+                - name: Snowflake
+                - name: Databricks
+            - name: Web Analytics Service
+              items:
+                - name: Google Analytics
+                - name: Google Analytics for Firebase
+                - name: Adjust
+                - name: Mixpanel
+        - name:
+            ja: データ利活用アドバイザー
+            en: Data Utilization Advisor
+          items:
+            - name:
+                ja: Tableau Doctor(Tableauに関するアドバイス、コーチング)
+                en: Tableau Doctor(meanings of Tableau advice and coaching)
+              items:
+                - name: Tableau Desktop
+                - name: Tableau Prep Builder
+                - name: Tableau Server
+                - name: Tableau Cloud
+            - name: Google
+              items:
+                - name: Looker Studio
+                - name: BigQuery
+    - title:
+        ja: データ × エンジニアリング × 教育 = 非エンジニアに対してのテクノロジー教育
+        en: Data × Engineering × Education = IT Training for non-Engineer
+      lead:
+        - ja: IT関連のスキルアップには教育は欠かせません。
+          en: Education is essential for Information Technology skill development.
+        - ja: 私はテクノロジー教育に惜しみなく投資する社会を望んでいます。
+          en: I would like to see a society that invests costs in technology education.
+      groups:
+        - name:
+            ja: 実績
+            en: Achievements
+          items:
+            - name:
+                ja: 主催
+                en: Hosted by
+              items:
+                - name:
+                    ja: SQL勉強会
+                    en: SQL Study Session
+                - name:
+                    ja: 構成管理 (Git) ハンズオン
+                    en: Configuration Management (Git) Hands-on
+                - name:
+                    ja: BigQuery基礎ハンズオン
+                    en: BigQuery Basic Hands-on
+                - name:
+                    ja: Tableau 社内Classroom
+                    en: Tableau In-house Classroom
+                - name:
+                    ja: Standard SQL 社内Classroom
+                    en: Standard SQL In-house Classroom
+            - name:
+                ja: アドバイザーとして
+                en: As an Advisor
+              items:
+                - name: Tableau
+                - name: Python
+                - name: Java (+ Spring Framework)
+    - title:
+        ja: データ × 業務効率化 = BPR(Business Process Re-engineering)
+        en: Data × Business Efficiency = BPR(Business Process Reengineering)
+      lead:
+        - ja: 非エンジニア層は、ITリテラシーの壁があるため、有効にITを活用できていません。
+          en: There are facts that non-engineers are not effectively utilizing IT due to literacy barriers.
+        - ja: データとテクノロジーの力を駆使して、非効率業務を改善する手助けを行い、非エンジニア層の業務効率化を図っています。
+          en: I use the power of data and technology to innovate inefficient operations and improve operational efficiency.
+reading:
+  title:
+    ja: 読書
+    en: Reading
+  themes:
+    title:
+      ja: テーマ
+      en: Theme
+    items:
+      - name:
+          ja: ビジネス
+          en: Business
+      - name:
+          ja: 会計
+          en: Finance
+      - name:
+          ja: 歴史、哲学
+          en: History, and Philosophy
+  notes:
+    - ja: テーマについて議論し、書評を述べるアウトプットや発散が重要だと考えています。
+      en: Discuss the topic and provide a book review
+    - ja: 読書会、輪読会歓迎。
+      en: Reading Groups
