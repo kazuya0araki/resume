@@ -1,0 +1,48 @@
+title: Mission / Vision / Value
+mission:
+  title: Mission
+  statement:
+    ja: データの力で世界を変革するトリックスターとして、人々を導く存在となる
+    en: Be the trickster who transforms the world with the power of data to guide people.
+vision:
+  title: Vision
+  statement:
+    ja: データの導き手として、価値あることを正しく行う
+    en: As a data leader, I will be doing what is valuable and correct.
+value:
+  title: Value
+  statement:
+    ja: QCDSを当たり前に体現する
+    en: Embodying QCDS.
+  items:
+    - key: Quality
+      label: High Outcome
+      body:
+        ja: 当たり前に高品質、高成果物を目指す。
+        en: As a matter of course, aiming for high quality and high quality.
+    - key: Cost
+      label: Think Better
+      body:
+        ja: 当たり前に生産的思考を行う。
+        en: As a matter of course, doing productive thinking.
+    - key: Delivery
+      label: Quick Win
+      body:
+        ja: 当たり前に小さく早く行う。
+        en: As a matter of course, doing it small and quick.
+    - key: Service
+      label: Keep Growth
+      body:
+        ja: 当たり前に改善し、成長する。
+        en: As a matter of course, doing improvement and growth.
+motto:
+  title:
+    ja: 座右の銘
+    en: Motto
+  items:
+    - The right thing in the right way.
+    - ja: 現状に満足せず、常に好奇心を持ち続ける
+      en: Never be satisfied with the present. Always be curious.
+    - Stay Hungry, Stay Foolish.
+    - Simple is the best.
+    - Time Is Money.

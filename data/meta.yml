@@ -1,0 +1,63 @@
+updated: 2026-07-01
+languages:
+  - ja
+  - en
+sections:
+  - basic
+  - career
+  - qualifications
+  - skills
+  - mission
+  - motto
+  - achievements
+  - interests
+  - aspirations
+labels:
+  ja:
+    doc_title: 職務経歴書
+    as_of: "*%s*現在"
+    other_lang: 英語版職務経歴書はこちら
+    now: 現在
+    basic: 基本情報
+    name: 氏名
+    birth: 生年月日
+    sex: 性別
+    residence: 居住地
+    sns: SNS etc.
+    career: 職務経歴
+    overview: 概要
+    detail: 詳細
+    th_term: 在籍期間
+    th_company: 社名
+    th_period: 期間
+    th_org: 所属組織
+    th_role: 職位
+    th_content: 内容
+    th_date: 日付
+    th_title: タイトル
+    th_material: 資料等
+    deleted: "[記事削除済]"
+  en:
+    doc_title: Resume
+    as_of: Since *%s*
+    other_lang: Japanese Resume is here.
+    now: Currently
+    basic: Basic Information
+    name: Full Name
+    birth: Date of Birth
+    sex: Sex
+    residence: Residence
+    sns: SNS etc.
+    career: Job History
+    overview: Overview
+    detail: Detail
+    th_term: Term
+    th_company: Company
+    th_period: Term
+    th_org: Organization
+    th_role: Role
+    th_content: Contents
+    th_date: Date
+    th_title: Title
+    th_material: References
+    deleted: "[Deleted]"

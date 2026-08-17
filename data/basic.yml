@@ -1,0 +1,61 @@
+name:
+  ja: 荒木 和也
+  en: Kazuya Araki
+birth: 1982-08-30
+sex:
+  ja: 男
+  en: Male
+residence:
+  ja: 東京都
+  en: Tokyo, Japan
+social:
+  - service: X(twitter)
+    logo: x
+    color: 000000
+    handle: kazuya_araki_jp
+    url: https://twitter.com/kazuya_araki_jp
+  - service: GitHub
+    logo: github
+    color: 000000
+    handle: kazuya0araki
+    url: https://github.com/kazuya0araki
+  - service: Qiita
+    logo: qiita
+    color: 55C500
+    handle: Kazuya_Araki_Tokyo
+    url: https://qiita.com/Kazuya_Araki_Tokyo
+  - service: Note
+    logo: note
+    color: 000000
+    handle: jedi_trickstar
+    url: https://note.com/jedi_trickstar
+  - service: Medium
+    logo: Medium
+    color: 000000
+    handle: "@kazuya.araki"
+    url: https://medium.com/@kazuya.araki
+  - service: Facebook
+    logo: facebook
+    color: 1877F2
+    handle: kazuya.araki.tokyo
+    url: https://www.facebook.com/kazuya.araki.tokyo
+  - service: LinkedIn
+    logo: linkedin
+    color: 0077B5
+    handle: kazuya-araki-65680111a
+    url: https://www.linkedin.com/in/kazuya-araki-65680111a/
+  - service: Wantedly
+    logo: wantedly
+    color: 21BDDB
+    handle: kazuya0araki
+    url: https://www.wantedly.com/id/kazuya0araki
+  - service: Speaker Deck
+    logo: Speaker-Deck
+    color: 009287
+    handle: kazuya_araki_tokyo
+    url: https://speakerdeck.com/kazuya_araki_tokyo
+  - service: Tableau Public
+    logo: tableau
+    color: E97627
+    handle: kazuya.araki
+    url: https://public.tableau.com/app/profile/kazuya.araki/vizzes

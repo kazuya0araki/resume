@@ -1,0 +1,143 @@
+title:
+  ja: 実績
+  en: Achievements
+talks:
+  title:
+    ja: 登壇
+    en: Talking as a speaker
+  items:
+    - date: 2018-09-26
+      title:
+        ja: Data Peopleの為の勉強会 \~Eureka×Leverages×BizReach\~
+        en: Study Session for Data People \~Eureka×Leverages×BizReach\~
+    - date: 2018-10-01
+      title:
+        ja: Tableau Server運用管理者ミートアップ
+        en: Tableau Server Administrators Meetup
+    - date: 2018-11-14
+      title: Data Analyst Meetup Tokyo Vol.8
+      url: https://data-analyst.connpass.com/event/107244/
+      material:
+        ja: 株式会社ビズリーチの紹介@Data Analyst Meetup Tokyo vol.8
+        en: About BizReach, Inc.@Data Analyst Meetup Tokyo vol.8
+      material_url: https://speakerdeck.com/kazuya_araki_tokyo/zhu-shi-hui-she-bizuritinoshao-jie-at-data-analyst-meetup-tokyo-vol-dot-8
+    - date: 2019-05-14
+      title: Tableau Data Day Out Tokyo
+      url: https://www.tableau.com/ja-jp/data-day-out-tokyo2019-resource-page
+      material:
+        ja: TabReach! \~Tableauを組織のスタンダートBIにする⽅法\~
+        en: TabReach! \~How to Make Tableau Your Organization’s Standard BI Tool\~
+      material_url: https://www.tableau.com/sites/default/files/ddo_tokyo_2019_customersession_bizreach.pdf
+    - date: 2019-08-19
+      title:
+        ja: 第1回 Tableau Server 運用管理者ユーザー会
+        en: "Tableau Server Administrators User Group #1"
+      url: https://techplay.jp/event/743100
+    - date: 2019-10-21
+      title:
+        ja: Tableauデータサイエンス勉強会 第4回 - 画像認識技術とBIの巻 -
+        en: "Tableau Data Science Study Session #4 - Image Recognition Technology and BI -"
+      url: https://techplay.jp/event/750555
+      material:
+        ja: Tableau + Pythonとデータのあり方
+        en: Tableau + Python and How Data Behaves
+      material_url: https://speakerdeck.com/kazuya_araki_tokyo/tableau-plus-pythontodetanoarifang
+    - date: 2019-11-25
+      title:
+        ja: 第2回 Tableau Server 運用管理者ユーザー会
+        en: "Tableau Server Administrators User Group #2"
+      url: https://techplay.jp/event/746910
+    - date: 2021-01-25
+      title:
+        ja: BIツールカジュアル座談会 \~Redash と Metabase\~
+        en: BI Tool Casual Roundtable \~Redash and Metabase\~
+      url: https://bitoollabo.connpass.com/event/199913/
+      material: YouTube Live
+      material_url: https://www.youtube.com/live/U7DHUI5qZcg?si=l18k9SwB1dzY5F4P
+    - date: 2023-04-24
+      title:
+        ja: Tableauユーザー会
+        en: Tableau Users Group
+      url: https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you
+      material:
+        ja: Tableau事例紹介 & 課題共有
+        en: Tableau Case Studies & Challenge Sharing
+      material_url: https://speakerdeck.com/kazuya_araki_tokyo/tableaushi-li-shao-jie-and-ke-ti-gong-you
+    - date: 2024-04-15
+      title:
+        ja: Tableau ユーザー向け】ITサービス Meet up
+        en: Tableau User Only】IT Service Meet up
+      url: https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka
+      material:
+        ja: Tableau事例紹介 / Tableau Case Study of Eureka
+        en: Tableau Case Study of Eureka
+      material_url: https://speakerdeck.com/kazuya_araki_tokyo/tableau-case-study-of-eureka
+    - date: 2024-11-23
+      title: DATA Saber Conference 2024
+media:
+  title:
+    ja: メディア、ブログ掲載
+    en: Media and blog postings
+  items:
+    - date: 2018-07-18
+      title:
+        ja: データの力で、事業を加速する｜BIグループの仕事を公開！
+        en: Introducing the work of the BI Group
+      url: https://reachone.bizreach.co.jp/entry/2018/07/18/145421
+      deleted: true
+    - date: 2018-11-29
+      title:
+        ja: 「Data Analyst Meetup Tokyo vol.8」に弊社データアナリストが登壇しました！
+        en: "Our data analyst spoke at \"Data Analyst Meetup Tokyo vol.8\""
+      url: https://reachone.bizreach.co.jp/entry/2018/11/29/160043
+      deleted: true
+    - date: 2019-02-13
+      title:
+        ja: 高校生に向けてAIとBIのデータ活用講座を開催しました！
+        en: AI and BI data application course for high school students
+      url: https://reachone.bizreach.co.jp/entry/2019/02/13/113418
+      deleted: true
+    - date: 2019-07-29
+      title:
+        ja: Tableauが3か月でBI人材を育てるブートキャンプ──企業にデータ分析文化を広めるデータセイバー
+        en: "Tableau's 3-month boot camp for BI talent - DATA Saber to spread data analysis culture in the company"
+      url: https://bizzine.jp/article/detail/3543
+    - date: 2020-03-30
+      title:
+        ja: "入社エントリー: 3月にエウレカに入社し、BIチームにJOINいたしました荒木です。"
+        en: "Eureka entry: Join to the BI Team"
+      url: https://www.wantedly.com/companies/eureka/post_articles/225086
+      deleted: true
+    - date: 2021-12-14
+      title:
+        ja: redashの断捨離を実施したので、方法を共有します
+        en: redash Decluttering
+      url: https://medium.com/eureka-engineering/redash%E3%81%AE%E6%96%AD%E6%8D%A8%E9%9B%A2%E3%82%92%E5%AE%9F%E6%96%BD%E3%81%97%E3%81%9F%E3%81%AE%E3%81%A7-%E6%96%B9%E6%B3%95%E3%82%92%E5%85%B1%E6%9C%89%E3%81%97%E3%81%BE%E3%81%99-9ffaeaccc910
+    - date: 2022-07-25
+      title:
+        ja: 第5回 BIツールを用いたデータ可視化業務の要件定義プロセス - BIツールユーザーによる、BIツールユーザーのための、BIツールのトリセツ
+        en: "#5: Requirements Definition Process for Data Visualization Operations Using BI Tools - BI Tool Tricks, by BI Tool Users, for BI Tool Users"
+      url: https://data.wingarc.com/all-about_bitool_05-43435
+    - date: 2022-07-25
+      title:
+        ja: 第7回 レポート・ダッシュボードの断捨離の重要性 - BIツールユーザーによる、BIツールユーザーのための、BIツールのトリセツ
+        en: "#7: The Importance of Discarding Reports and Dashboards - BI Tool Tricks, by BI Tool Users, for BI Tool Users"
+      url: https://data.wingarc.com/all-about_bitool_07-43472
+    - date: 2023-10-25
+      title:
+        ja: Best of Tableau Web 2023年10月号
+        en: "Best of Tableau Web #October, 2023"
+      url: https://www.salesforce.com/jp/blog/jp-best-of-tableau-web-202310/
+    - date: 2023-12-08
+      title:
+        ja: BigQueryの白魔術師がdbtという最強クラスの触媒を用いていい感じに世界を救う方法
+        en: BigQuery White Magician
+      url: https://medium.com/eureka-engineering/bigquery-white-magician-a718e5dc8818
+books:
+  title:
+    ja: 著書
+    en: Books
+  items:
+    - date: 2022-03-01
+      title: 動き出すデータドリブン組織のつくりかた Tableau Blueprintに学ぶ実践的アプローチ
+      url: https://amzn.to/3gOvJC9

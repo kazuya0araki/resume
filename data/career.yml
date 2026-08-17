@@ -1,0 +1,426 @@
+career:
+  - company:
+      ja: アロウズ・システム株式会社
+      en: AROUSE SYSTEM Co., Ltd.
+    url: https://lanstech.co.jp/2025/06/02/%e5%90%88%e4%bd%b5%e3%81%ab%e9%96%a2%e3%81%99%e3%82%8b%e3%81%8a%e7%9f%a5%e3%82%89%e3%81%9b/
+    note:
+      ja: 株式会社ランステックに吸収合併
+      en: Merged into Lans Tech Co., Ltd
+    rows:
+      - from: 2007-05
+        to: 2011-04
+        org:
+          ja: オープンシステム開発部
+          en: Open Systems Development Dept.
+        role:
+          ja: システムエンジニア メンバー
+          en: System Engineer Member
+        items:
+          - ja: SAP製品アドイン開発(Java, ABAP)
+            en: SAP product add-in development(Java, ABAP)
+          - ja: Webアプリケーション開発(Java, PHP)
+            en: Web application development(Java, PHP)
+      - from: 2011-04
+        to: 2012-10
+        org:
+          ja: オープンシステム開発部
+          en: Open Systems Development Dept.
+        role:
+          ja: システムエンジニア メンバー ~ リーダー
+          en: System Engineer Member ~ Tech Lead
+        items:
+          - ja: 受託開発(tier 1 ~ tier 3)
+            en: OEM(tier 1 ~ tier 3)
+      - from: 2012-11
+        to: 2013-08
+        org:
+          ja: オープンシステム開発部
+          en: Open Systems Development Dept.
+        role:
+          ja: システムエンジニア メンバー -> 開発リーダー
+          en: System Engineer Member -> Tech Lead
+        items:
+          - ja: オープンWebシステムの運用保守
+            en: Web system operation and maintenance
+          - ja: 小規模〜中規模程度のシステム改修案件
+            en: System modification projects
+  - company:
+      ja: 株式会社レジェンド・アプリケーションズ
+      en: Legend Applications, Inc.
+    suffix:
+      ja: (現、[株式会社ラキール](https://www.lakeel.com/ja/index.html))
+      en: " formerly known as [LaKeel, Inc](https://www.lakeel.com/ja/index.html)"
+    rows:
+      - from: 2013-09
+        to: 2014-09
+        org:
+          ja: プロダクト開発本部 LaKeel開発グループ LWF開発チーム
+          en: LaKeel Workflow Development Team, LaKeel Development Group, Product Development Div.
+        role:
+          ja: フロントエンドエンジニア -> バックエンドエンジニア -> プロダクトリーダー
+          en: Front End Engineer -> Back End Engineer -> Tech Lead
+        items:
+          - ja: ワークフローパッケージ「LaKeel Workflow」製品開発
+            en: "Product development of workflow package \"LaKeel Workflow\""
+      - from: 2014-10
+        to: 2015-01
+        org:
+          ja: AMS開発本部
+          en: AMS Development Div.
+        role:
+          ja: テスト自動化チームリーダー
+          en: Test Automation Team Leader
+        items:
+          - ja: Webアプリケーション構築プロジェクト瑕疵対応
+            en: Web Application Construction Projects(Defects handling)
+      - from: 2015-02
+        to: 2016-07
+        org:
+          ja: プロダクト開発本部 LaKeel開発グループ CM開発チーム
+          en: Company Messenger Development Team, LaKeel Development Group, Product Development Div.
+        role:
+          ja: アプリケーションエンジニア -> プロダクトリーダー、アーキテクト
+          en: Application Engineer -> Product Leader, Architect
+        items:
+          - ja: ビジネス用チャットパッケージ「COMPANY Messenger(現[LaKeel Messenger](https://messenger.lakeel.com/))」製品開発
+            en: "Product development of business chat package \"COMPANY Messenger\" formerly known as \"[LaKeel Messenger](https://messenger.lakeel.com/)\""
+      - from: 2016-08
+        to: 2017-04
+        org:
+          ja: プロダクト開発本部 LaKeel開発グループ LBI開発チーム
+          en: LaKeel BI Development Team, LaKeel Development Group, Product Development Div.
+        role:
+          ja: プロダクトマネージャー、アーキテクト、PMO
+          en: Product Manager, Architect, PMO
+        items:
+          - ja: Business Intelligenceパッケージ「[LaKeel BI](https://bi.lakeel.com/)」製品開発
+            en: "Product development of Business Intelligence package \"[LaKeel BI](https://bi.lakeel.com/)\""
+  - company:
+      ja: 株式会社ビズリーチ
+      en: BizReach, Inc.
+    url: http://www.bizreach.co.jp/
+    rows:
+      - from: 2017-05
+        to: 2017-12
+        org:
+          ja: 事業戦略部 BIグループ
+          en: BI Group, Business Strategy Dept.
+        role:
+          ja: データアナリスト
+          en: Data Analyst
+        items:
+          - ja: ビズリーチサービスデータ抽出、加工、分析
+            en: BizReach Services Data Extraction, Processing, and Analysis
+          - ja: データを用いて既存事業のグロース施策提案
+            en: Propose growth measures using data
+          - ja: 非エンジニア向けにITリテラシーを向上する活動(技術提供、勉強会、ナレッジシェアリング等)
+            en: Activities to improve IT literacy for non-engineers(e.g. technical offerings, study groups, knowledge sharing)
+      - from: 2018-01
+        to: 2018-01
+        org:
+          ja: "- 事業戦略本部 事業戦略部 BIグループ<br>- ビズリーチ事業本部 サービス開発本部(ビズリーチ) カスタマーマーケティング部(ビズリーチ) カスタマーマーケティングイノベーション(ビズリーチ)"
+          en: "- BI Group, Business Strategy Dept., Business Strategy Div.<br>- Customer Marketing Innovation(BizReach), Customer Marketing Dept.(BizReach), Service Development Div.(BizReach), BizReach Business Div."
+        role:
+          ja: データアナリスト、データエンジニア
+          en: Data Analyst, Data Engineer
+        items:
+          - ja: マーケティングチーム兼務
+            en: Concurrently serves on the marketing team
+          - ja: データドリブンマーケティングチームを目指すべく、データ基盤の整備、既存オペレーションの改善提案など、カスタマーマーケティングチームと協働
+            en: Collaborated with the customer marketing team on developing data infrastructure and proposing improvements to existing operations, aiming to build a data-driven marketing team
+      - from: 2018-02
+        to: 2018-04
+        org:
+          ja: "- 事業戦略本部 事業戦略部 BIグループ<br>- マーケティングテクノロジー室"
+          en: "- BI Group, Business Strategy Dept., Business Strategy Div.<br>- Marketing Technology Office"
+        role:
+          ja: データエンジニア
+          en: Data Engineer
+        items:
+          - ja: マーケティングテクノロジー室兼務
+            en: Concurrently serves on Marketing Technology Office
+          - ja: デジタルマーケティングを目指すべく、データ分析基盤の起案、設計
+            en: Drafting and designing data analysis infrastructure for digital marketing purposes
+      - from: 2018-05
+        to: 2018-07
+        org:
+          ja: "- マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部 BIグループ"
+          en: "- Marketing Technology Office<br>- BI Group, Business Strategy Dept., Business Strategy Div."
+        role:
+          ja: データエンジニア
+          en: Data Engineer
+        items:
+          - ja: マーケティングテクノロジー室主務移行
+            en: Moved main department to Marketing Technology Office
+          - ja: データ分析基盤の要件定義、企画、設計、運用
+            en: Requirements definition, planning, design, and operation of data analysis infrastructure
+      - from: 2018-08
+        to: 2019-01
+        org:
+          ja: "- システム本部 マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部 BIグループ"
+          en: "- Marketing Technology Office, Systems Div.<br>- BI Group, Business Strategy Dept., Business Strategy Div."
+        role:
+          ja: データエンジニア、データアナリスト
+          en: Data Engineer, Data Analyst
+        items:
+          - ja: データ分析基盤の要件定義、企画、設計、運用保守
+            en: Requirements definition, planning, design, and operation of data analysis infrastructure
+          - ja: Tableau Server管理者
+            en: Tableau Server Administrator
+          - ja: Tableauを利用したデータドリブン組織牽引
+            en: Lead data-driven organization using Tableau
+      - from: 2019-02
+        to: 2019-04
+        org:
+          ja: "- リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室<br>- 事業戦略本部 事業戦略部"
+          en: "- Marketing Technology Office, Recruiting Platform Management Div.<br>- Business Strategy Dept., Business Strategy Div."
+        role:
+          ja: データエンジニア、データアナリスト
+          en: Data Engineer, Data Analyst
+        items:
+          - ja: 同上
+            en: Same as above
+          - ja: カスタマーサイドのデータ分析利活用支援(ダッシュボード作成、データ整備)
+            en: Data analysis and utilization support(dashboard creation, data maintenance)
+      - from: 2019-05
+        to: 2019-07
+        org:
+          ja: リクルーティングプラットフォーム統括本部 マーケティングテクノロジー室
+          en: Marketing Technology Office, Recruiting Platform Management Div.
+        role:
+          ja: データエンジニア、データアナリスト
+          en: Data Engineer, Data Analyst
+        items:
+          - ja: 同上
+            en: Same as above
+          - ja: Tableau推進(Classroom開校、Boot Camp)
+            en: Tableau promotion(Classroom, Boot Camp)
+          - ja: ビジネスサイドのデータ利活用支援(レポーティング最適化、資料自動化など)
+            en: Data analysis and utilization support(dashboard creation, data maintenance)
+      - from: 2019-08
+        to: 2020-01
+        org:
+          ja: HR Techカンパニー リクルーティングプラットフォーム事業ユニット マーケティングテクノロジー室
+          en: Marketing Technology Office, HR Tech Company Recruiting Platform Business Unit
+        role:
+          ja: データエンジニア、データアーキテクト
+          en: Data Engineer, Data Architect
+        items:
+          - ja: 経営指標モニタリングプロジェクト(事業企画と協働)
+            en: Management Indicator Monitoring Project in collaboration with the Business Planning Dept.
+          - ja: ビジネスサイドのデータ利活用支援(レポーティング最適化、顧客提供用の定例資料自動化など)
+            en: Data analysis and utilization support(e.g. Reporting optimization, automation of regular documents for customer provision)
+          - ja: Tableau Server管理
+            en: Tableau Server Administrator
+          - ja: Data Warehouse(Google BigQuery)管理
+            en: Data Warehouse(Google BigQuery) Management
+      - from: 2020-02
+        to: 2020-03
+        org:
+          ja: DX推進室
+          en: DX Promotion Office
+        role:
+          ja: データアナリスト、データアーキテクト
+          en: Data Analyst, Data Architect
+        items:
+          - ja: CSOの意思決定をデータアナリティクスで支援
+            en: CSO Assistance
+          - ja: DBRE、横断プラットフォーム組織とのデータインフラ整備検討
+            en: Consider developing a cross-platform organization and data infrastructure
+          - ja: Tableau Server管理
+            en: Tableau Server Administrator
+          - ja: Data Warehouse(Google BigQuery)管理
+            en: Data Warehouse(Google BigQuery) Management
+  - company:
+      ja: 株式会社エウレカ
+      en: Eureka, Inc.
+    url: https://eure.jp/
+    rows:
+      - from: 2020-03
+        to: 2020-06
+        org: BI Team
+        role: Data Analyst and Data Engineer
+        items:
+          - ja: Tableauを用いたモニタリング環境構築
+            en: Building a monitoring environment using Tableau
+          - ja: Tableau Server管理
+            en: Tableau Server Administrator
+          - ja: BigQuery設計、構築、運用保守
+            en: BigQuery table design, construction, operation and maintenance
+      - from: 2020-07
+        to: 2020-09
+        org: BI Team
+        role: Data Analyst and Data Engineer
+        items:
+          - ja: Tableauを用いたモニタリング環境構築
+            en: Building a monitoring environment using Tableau
+          - ja: Tableau Server管理
+            en: Tableau Server Administrator
+          - ja: BigQuery整備
+            en: BigQuery Management
+          - Safety Project
+      - from: 2020-10
+        to: 2020-12
+        org: BI Team
+        role: Data Analyst and Data Engineer
+        items:
+          - ja: Tableauを用いたモニタリング環境構築
+            en: Building a monitoring environment using Tableau
+          - ja: Tableau Server管理
+            en: Tableau Server Administrator
+          - ja: BigQuery整備
+            en: BigQuery Management
+          - Safety Project
+          - ja: Tableauの利用浸透のためのデータ整備、教育体制計画
+            en: Data maintenance and education system plan for Tableau usage penetration
+      - from: 2021-01
+        to: 2021-12
+        org: BI Team
+        role: Data Analyst and Data Engineer
+        items:
+          - ja: KPIモニタリング環境整備
+            en: KPI monitoring environment development
+          - ja: ヘルスチェック用レポートのエンハンス(Tableau化、パフォーマンス改善、運用改善)
+            en: Enhancement of health check reports(migration to Tableau, performance improvement, operational improvement)
+          - Safety Project
+      - from: 2022-01
+        to: 2022-03
+        org: BI Team
+        role: Data Analyst and Data Engineer
+        items:
+          - ja: 新データ分析基盤構築
+            en: Building a new data analysis infrastructure
+          - Safety Project
+      - from: 2022-04
+        to: 2023-01
+        org: BI Team
+        role: Data Analyst and Data Engineer
+        items:
+          - ja: 新データ分析基盤構築
+            en: Building a new data analysis infrastructure
+          - Pairs Core Dashboard Project
+      - from: 2023-02
+        to: 2023-12
+        org: Data Management Team
+        role: Data Engineer
+        items:
+          - ja: データ分析基盤運用保守
+            en: Data analysis infrastructure management
+          - ja: ログ基盤刷新Project
+            en: Log infrastructure renewal Project
+          - ja: Looker Studio運用設計
+            en: Looker Studio operational design
+      - from: 2024-01
+        to: 2024-09
+        org: BI Team Data Enabling
+        role: Data Engineer and Analytics Engineer
+        items:
+          - ja: データ分析基盤運用効率改善
+            en: Improved operational efficiency of data analysis infrastructure
+          - ja: Apps Scriptをdbtに移行
+            en: Migration from Apps Script to dbt
+          - ja: dbt運用改善
+            en: dbt operational improvements
+          - ja: BIツール運用再設計
+            en: BI tool operation redesign
+  - company:
+      ja: 株式会社ビズリーチ
+      en: BizReach, Inc.
+    url: http://www.bizreach.co.jp/
+    rows:
+      - from: 2024-10
+        to: 2024-12
+        org:
+          ja: CTO室 データソリューショングループ
+          en: Data Solution Grp, CTO Dept.
+        role: Data Engineer and Data Analyst
+        items:
+          - ja: ビズリーチ事業の売上データ整備
+            en: Sales data maintenance for BizReach
+          - ja: ビズリーチ、HRMOS全体のデータ分析
+            en: Data analysis of BizReach and HRMOS
+      - from: 2025-01
+        to: 2026-03
+        org:
+          ja: CTO室 データソリューショングループ
+          en: Data Solution Grp, CTO Dept.
+        role: Data Engineer and Data Analyst
+        items:
+          - ja: HRMOSシリーズの新規データ基盤構築
+            en: New Data Infrastructure Development for the HRMOS Series
+          - ja: 全社マスタ環境構築
+            en: Master Data Management(MDM) Infrastructure
+  - company:
+      ja: nobody(個人事業)
+      en: nobody(Sole Proprietorship)
+    rows:
+      - from: 2023-02
+        to: 2023-12
+        items:
+          - ja: データ分析環境運用保守案件
+            en: Operation and maintenance of data analysis environment
+      - from: 2023-10
+        to: 2024-12
+        items:
+          - ja: Data Mart作成, Looker Studio Report作成案件
+            en: Data Mart creation, Looker Studio Report creation
+      - from: 2024-05
+        to: 2025-06
+        items:
+          - ja: Pythonシステム構築案件
+            en: Python System Development
+      - from: 2025-05
+        to: 2025-06
+        items:
+          - ja: プロジェクト推進支援
+            en: Project Promotion Support
+      - from: 2025-06
+        to: 2025-12
+        items:
+          - ja: 個人開発(Pythonプラグイン)
+            en: Personal Development (Python Plugin)
+      - from: 2025-09
+        to: 2025-09
+        items:
+          - ja: Tableauレポート作成(スポット業務)
+            en: Tableau Report Creation (One-Time Assignment)
+      - from: 2026-01
+        to: 2026-03
+        items:
+          - ja: dbt導入支援
+            en: dbt Import Support
+      - from: 2026-02
+        to: null
+        items:
+          - ja: データコンサルティング、AIエージェント開発支援
+            en: Data Consulting, AI Agent Development Support
+      - from: 2026-03
+        to: 2026-04
+        items:
+          - ja: HR業務、総務、労務
+            en: Human Resources, General Affairs, Labor Relations
+  - company:
+      ja: 株式会社フェズ
+      en: Fez, Inc.
+    url: https://fez-inc.jp/
+    rows:
+      - from: 2026-03
+        to: 2026-06
+        org:
+          ja: データテクノロジー開発部 データ基盤グループ
+          en: Data Technology Development Department, Data Infrastructure Group
+        role: Data Engineer
+        items:
+          - ja: Urumoデータ基盤管理運用
+            en: Urumo Data Infrastructure Management and Operations
+      - from: 2026-07
+        to: null
+        org:
+          ja: プラットフォーム開発部 データプラットフォームグループ
+          en: Platform Development Department, Data Platform Group
+        role: Data Engineer
+        items:
+          - ja: Urumoデータ基盤管理運用
+            en: Urumo Data Infrastructure Management and Operations
+          - ja: エンジニア採用(Hiring Manager)
+            en: Engineer Recruitment(Hiring Manager)

@@ -1,0 +1,35 @@
+title:
+  ja: どんなことがしたいか？
+  en: What do I want to do?
+items:
+  - title:
+      ja: 社会貢献度の高いデータを安心安全に利活用したい
+      en: Safely and securely utilizing data that makes a significant contribution to society
+    lead:
+      ja: 日常座臥、以下を考えています;
+      en: I am thinking of;
+    questions:
+      - ja: 安心安全なデータプラットフォームが提供できないか？
+        en: Can I provide a safe and secure data platform?
+      - ja: 人間の可処分時間を費やすことなく、持続的かつ継続的に正しいデータを取得できないか？
+        en: Can I get the right data in a sustainable and continuous way without depriving humans of disposable time?
+      - ja: 個人情報保護法、GDPRといった各種法律を踏まえた活動、啓蒙ができないか？
+        en: Can I work with and educate people about laws such as the Privacy Act and GDPR?
+      - ja: 場合によってはビジネスチャンスにつながるようなことができないか？
+        en: Can I do something that will lead to business opportunities?
+  - title:
+      ja: データ活用人材の育成、データ人材の市場価値を向上させてあげたい
+      en: Developing talent in data utilization and enhance the market value of data professionals
+    statements:
+      - ja: データリテラシーの高い人材が今後のビジネスを劇的に変革する力があると私は考えています。
+        en: I believe that data-literate human resources will change the future of business.
+      - ja: データサイエンティスト、データエンジニア、データスチュワートなど、データに携わる職種の価値を欧米諸国並に向上させたいです。
+        en: I want to increase the value of data-enabled jobs such as data scientists, data engineers, and data stewart to the same level as in the United States and Europe.
+  - title:
+      ja: データ人材系のイベントを主催・登壇・参加・提供したい
+      en: Organizing, speaking at, participating in, and supporting events related to data professionals
+    statements:
+      - ja: 知見と人脈を広げるために、データ人材界隈のイベントに参加しています。
+        en: I participate in events in the data human resources community to expand my knowledge and network.
+      - ja: 機会があれば主催したり登壇したりしています。
+        en: I am also a organizer or speaker when I have the opportunity.
