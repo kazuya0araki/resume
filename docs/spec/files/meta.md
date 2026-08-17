@@ -67,6 +67,13 @@ timestamp: 2026-08-16T00:00:00Z
 | `labels.en.th_material` | 文字列 | ○ |  | References |
 | `labels.en.deleted` | 文字列 | ○ |  | [Deleted] |
 
+# 備考
+
+`labels` は生成物にだけ現れる語彙で、データそのものではない。
+表記ゆれを 1 箇所に閉じ込めるために置いている。
+
+`sections` は章の出力順。ここに無い章は出力されない。
+
 # 関連
 
 - [記述規約](../conventions/index.md)

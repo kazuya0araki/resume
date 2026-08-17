@@ -1,8 +1,3 @@
-# 全体設定
-#
-# README.md / README_EN.md から移行。以後はこのファイルが正。
-# 文字列はスカラー = 全言語共通、ja/en = 言語別。URL はインライン。
-
 updated: 2026-07-01
 languages:
   - ja

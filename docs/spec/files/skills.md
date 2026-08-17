@@ -38,6 +38,12 @@ timestamp: 2026-08-16T00:00:00Z
 | `sections[].related.groups[].language` | 文字列 | ○ |  | Java |
 | `sections[].related.groups[].items[].name` | 文字列 | ○ |  | Spring Framework |
 
+# 備考
+
+`sections[].key` が `languages` の区分だけ、他と構造が異なる。
+言語そのものを `items` にフラットに並べ、関連パッケージ・ツールは `related.groups` に
+言語ごとにまとめる。他の区分は `groups` のみを持つ。
+
 # 関連
 
 - [記述規約](../conventions/index.md)
